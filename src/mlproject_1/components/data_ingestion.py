@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from src.mlproject_1.utils import read_sql_data
 from sklearn.model_selection import train_test_split
 
+
 @dataclass
 class DataIngestionConfig:
     train_data_path = os.path.join("artifacts", "train.csv")

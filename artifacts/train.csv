@@ -1,801 +1,801 @@
-Invoice_Date,Customer_Code,Customer_Name,Item_Code,Zone,HQ,Brand,Item_Description,QTY,AMOUNT
-2022-11-04,306033,Shri Ganesh Poultries,10015568,North,Jind,NDZ Forte,NDZ Forte (5 x 5Kg),175,45500
-2023-08-01,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-11-03,305091,RA Health Care,10015568,North,Lucknow,NDZ Forte,NDZ Forte (5 x 5Kg),400,96000
-2023-11-01,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),100,4000
-2023-10-07,305013,Vijendra Medical Hall,10066388,North,Jind,Premin,Premin L (25Kg),500,26500
-2023-08-02,306127,Krishna Poultry & Cattle Feed,10017286,West,Anand,Lipibond,Lipibond (5 x 5Kg),100,18000
-2022-09-07,305087,Phoenix Poultry,10008978,West,Jabalpur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,76500
-2023-04-10,310020,Sona Gold Agro-Chem(P) Ltd,10066078,East,Patna,Xerotox,XEROTOX (25 KG),500,24000
-2022-12-12,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),400,280000
-2023-05-07,310516,Mama Bhanja Traders,10064907,North,Ajmer,Xerotox,XEROTOX PREMIUM (5 X 5KG),1000,125000
-2022-04-06,306023,Stemsy Nutrition,10007347,North,Ludhiana,Enzimix,Enzimix - Xylanase (25Kg),-50,-22500
-2022-06-07,304982,Jaya Agency,10015568,South,Bangalore,NDZ Forte,NDZ Forte (5 x 5Kg),200,50000
-2023-05-10,305046,Fatema Poultry Farm,10067571,West,Wakaner,MycoShield,MycoShield 10 (5KG x 5),25,18750
-2023-05-07,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),150,27000
-2023-06-03,309409,Simran Feeds Pvt Ltd,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),40,19200
-2022-10-09,305087,Phoenix Poultry,10014153,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),200,160000
-2023-08-03,306044,C S R M Enterprises,10011585,South,Tanuku,Previte,Previte Special (5 x 5Kg),350,218750
-2022-10-08,306121,New Hema Enterprises,10007213,South,Hyderabad ,Xerotox,Xerotox (25 Kg),350,15750
-2023-03-10,304996,Shree Om Sai Venterinary Sales,10067571,West,Sangli,MycoShield,MycoShield 10 (5KG x 5),25,19750
-2023-12-03,306101,Shree Naveen Poultry Feeds,10016366,North,Ajmer,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
-2022-08-09,306121,New Hema Enterprises,10014976,South,Hyderabad ,Xerotox,Xerotox Premium (5 x 5Kg),100,9000
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10062489,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),800,60000
-2023-08-11,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,9600
-2022-12-05,305018,Takave Farms,10014430,West,Pune,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),5,47500
-2023-12-09,306127,Krishna Poultry & Cattle Feed,10063693,West,Anand,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),250,30000
-2022-05-04,306002,Japp Poultry,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,10625
-2023-10-01,304972,Shri Sai Distributor,10011436,West,Raipur,Previte Chick Pro,Previte Chick Pro (1L x 10),20,9600
-2022-06-10,304030,Alora Agritech Pvt. Ltd.,10015938,North,Karnal,Kembio,KemBio Advance (2 x 5Kg),290,203000
-2023-03-10,305019,Poulvet Enterprises,10062489,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),2000,160000
-2023-08-01,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),225,16875
-2022-02-10,304982,Jaya Agency,10015568,South,Bangalore,NDZ Forte,NDZ Forte (5 x 5Kg),25,6250
-2023-11-11,304980,Shama Enterprises,10061262,North,Barwala,Eucamint ,EUCAMINT (500ML X 12),24,17100
-2022-08-12,305058,Venkateshwara Marketing,10017303,South,Karimnagar,Eucamint ,Eucamint (500ml x 12),24,18000
-2023-05-02,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),500,24000
-2022-11-04,305998,Titu Poultry Feed Supplement Store,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),250,21825
-2022-11-04,306033,Shri Ganesh Poultries,10014153,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,80000
-2022-06-08,305029,Mittal Enterprises,10008134,North,Barwala,Previte,Previte++1 (5 x 5 Kg),-200,-110000
-2023-05-11,305086,Excel Enterprises,10062715,South,Vijaywada,Enzimix,ENZIMIX (25 KG),450,76500
-2022-02-08,306072,Jeeya Medicose,10011436,West,Jabalpur,Previte Chick Pro,Previte Chick Pro (1L x 10),30,14400
-2022-10-09,304965,Vinayak Enterprises,10011522,North,Karnal,Previte Chick Pro,Previte Chick Pro (5L x 2),180,73800
-2022-05-04,306002,Japp Poultry,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,74375
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10011706,North,Barwala,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),250,75000
-2023-05-01,306023,Stemsy Nutrition,10014153,North,Ludhiana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),350,245000
-2023-07-06,309401,Poshak Farms,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),100,48000
-2022-08-09,306121,New Hema Enterprises,10014976,South,Hyderabad ,Xerotox,Xerotox Premium (5 x 5Kg),400,36000
-2022-03-07,306007,ABP Enterprises,10015568,East,24 Pargana,NDZ Forte,NDZ Forte (5 x 5Kg),150,37500
-2022-08-11,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,70000
-2022-07-06,304973,S M Enterprises,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,9375
-2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-06-09,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),275,66000
-2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),200,22000
-2023-11-11,304980,Shama Enterprises,10062715,North,Barwala,Enzimix,ENZIMIX (25 KG),450,76500
-2023-04-06,306036,Arindhas,10060491,South,KRISHNA A,Stedigro Advance,STEDIGRO ADVANCE (25  X 1KG),750,112500
-2023-11-09,306125,Asra Poultry Feed,10000676,West,Wakaner,Bromo Grane,BROMO GRANE (200GM X10),240,72000
-2022-12-10,305013,Vijendra Medical Hall,10014991,North,Jind,Premin,Premin L (25Kg),175,8400
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2023-07-01,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,9375
-2023-04-10,306002,Japp Poultry,10066602,North,Jind,Lipibond,LIPIBOND (5 X 5KG),150,26250
-2023-05-10,306096,Shree Keshav Agencies,10066521,North,Ajmer,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),20,12100
-2022-05-04,306002,Japp Poultry,10011522,North,Jind,Previte Chick Pro,Previte Chick Pro (5L x 2),150,60000
-2023-06-04,306096,Shree Keshav Agencies,10063982,North,Ajmer,Kembio,Kembio Advance WS (100 gm x 20),160,14400
-2022-06-12,305098,Neoline Pharma,10016091,West,Pune,Bromo Grane,Bromograne (12 x 1Kg),60,81000
-2022-11-06,306101,Shree Naveen Poultry Feeds,10014976,North,Ajmer,Xerotox,Xerotox Premium (5 x 5Kg),350,31500
-2022-11-08,305000,Royal Layer Poultry Farm,10014430,West,Pune,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),5,55000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2023-12-08,305013,Vijendra Medical Hall,10062475,North,Jind,Previte,PREVITE-IND (5X5 KG),250,118750
-2023-07-06,304986,Biotech Marketing,10063077,West,Anand,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),250,187500
-2022-10-10,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),500,24000
-2023-11-02,305046,Fatema Poultry Farm,10014991,West,Wakaner,Premin,Premin L (25Kg),75,3975
-2022-10-10,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),500,24000
-2022-10-12,305058,Venkateshwara Marketing,10008978,South,Karimnagar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,13200
-2022-03-07,304965,Vinayak Enterprises,10008638,North,Karnal,Previte,Previte-WPL (5 x 5 Kg),500,60000
-2023-02-10,309436,Kissan Medical Agencies,10063693,North,Ajmer,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),100,12300
-2022-10-08,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),225,10800
-2023-07-01,305098,Neoline Pharma,10014150,West,Pune,Bromo Grane,Bromo Grane (200gm x10),90,25200
-2022-06-04,305090,Sri Lakshmi Traders,10015722,South,Namakkal,Previte,Previte Special Soya G 500 L (5 x 5KG),500,210000
-2022-04-08,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),250,12000
-2023-08-02,304978,Ludhiana Feed Mills Pvt Ltd,10017302,North,Ludhiana,Kem-O-Cid Supreme,Kem-O-Cid Supreme (25 Kg),500,55000
-2022-07-06,304973,S M Enterprises,10011436,East,Patna,Previte Chick Pro,Previte Chick Pro (1L x 10),20,9500
-2023-03-06,305046,Fatema Poultry Farm,10062489,West,Wakaner,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),50,4500
-2023-07-02,3060071,ABP Enterprises,10014153,East,Patna,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,17500
-2023-07-06,305014,Shivaram Industries,10062842,South,Bangalore,Previte Alpha-D3 Conc.,PREVITE ALPHA-D3 (5KG),25,293750
-2022-07-08,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),450,20700
-2022-06-09,306121,New Hema Enterprises,10015705,South,Hyderabad ,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),100,60000
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),150,97500
-2023-04-04,305087,Phoenix Poultry,10063077,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),150,120000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2022-04-12,306002,Japp Poultry,10014991,North,Jind,Premin,Premin L (25Kg),125,6625
-2022-04-08,305046,Fatema Poultry Farm,10007213,West,Wakaner,Xerotox,Xerotox (25 Kg),75,3600
-2023-12-10,304981,Ravindra Medicose,10063382,North,Karnal,Premin,PREMIN-O-SE (15 X 1KG),30,84000
-2023-11-10,309401,Poshak Farms,10061262,West,Anand,Eucamint ,EUCAMINT (500ML X 12),24,15840
-2023-07-06,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),200,36000
-2023-02-01,304965,Vinayak Enterprises,10015568,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),150,39000
-2022-06-12,305098,Neoline Pharma,10008978,West,Pune,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,46500
-2022-08-10,306002,Japp Poultry,10011522,North,Jind,Previte Chick Pro,Previte Chick Pro (5L x 2),200,84000
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,11250
-2023-05-10,304965,Vinayak Enterprises,10063556,North,Karnal,Previte Chick Pro,PREVITE CHICK PRO (5L X 2),100,40000
-2022-08-11,305058,Venkateshwara Marketing,10011585,South,Karimnagar,Previte,Previte Special (5 x 5Kg),200,136000
-2022-05-04,306002,Japp Poultry,10014991,North,Jind,Premin,Premin L (25Kg),500,23000
-2022-09-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2023-10-01,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),250,175000
-2022-09-11,305022,Real Enterprise,10010104,West,Wakaner,Kembio,Kem Bio + (1kgx10),30,12000
-2022-08-12,306044,C S R M Enterprises,10008978,South,Tanuku,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,11700
-2022-07-11,305024,Nmn Ventures,10008978,West,Raipur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),625,55000
-2023-01-06,304996,Shree Om Sai Venterinary Sales,10061262,West,Sangli,Eucamint ,EUCAMINT (500ML X 12),24,17100
-2023-11-10,310793,Synergy Nutri Corp,10063693,West,Indore,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),150,18000
-2022-11-09,304037,Poshak Medicines,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),250,140000
-2023-05-02,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),500,24000
-2023-05-10,304965,Vinayak Enterprises,10066297,North,Karnal,Kem Sel,KEM SEL E BIO (5 X 5KG),125,103125
-2023-02-02,306070,Sandeep Poultry Medicine Shop,10010114,West,Jabalpur,Kem-O-Cid pHB,Kem-O-Cid pHB (12 x 1L),48,6720
-2023-07-02,3060071,ABP Enterprises,10011436,East,Patna,Previte Chick Pro,Previte Chick Pro (1L x 10),20,9600
-2023-07-01,305046,Fatema Poultry Farm,10014991,West,Wakaner,Premin,Premin L (25Kg),25,1200
-2023-07-02,304037,Poshak Medicines,10011436,West,Anand,Previte Chick Pro,Previte Chick Pro (1L x 10),50,22000
-2023-12-03,306101,Shree Naveen Poultry Feeds,10016366,North,Ajmer,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
-2022-12-11,306034,Synergy Agro Industries,10015904,West,Indore,Previte,Previte Cust F-2 (5 x 5kg),100,60000
-2022-05-12,304998,Noble Layer Farm Pvt. Ltd.,10016091,West,Pune,Bromo Grane,Bromograne (12 x 1Kg),96,92160
-2022-06-08,305009,Srinivasa Poultry Medicals Co.,10015568,South,Anaparthi,NDZ Forte,NDZ Forte (5 x 5Kg),-375,-93750
-2022-08-10,306007,ABP Enterprises,10014153,East,24 Pargana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10066388,West,Sangli,Premin,Premin L (25Kg),50,2650
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),350,227500
-2022-07-06,304973,S M Enterprises,10011585,East,Patna,Previte,Previte Special (5 x 5Kg),75,56250
-2022-06-07,306030,Venkata Manoj Enterprises,10015560,South,KRISHNA A,Kemvit A,Kemvit A (1Kg x 10),-61,-33275
-2022-08-09,304984,Divi Enterprises,10007224,South,Hyderabad ,Poszyme,Poszyme 5000 (25 Kg) (Granules),300,24900
-2023-11-02,305046,Fatema Poultry Farm,10007213,West,Wakaner,Xerotox,Xerotox (25 Kg),25,1200
-2023-01-06,304996,Shree Om Sai Venterinary Sales,10000676,West,Sangli,Bromo Grane,BROMO GRANE (200GM X10),100,30000
-2023-03-01,306036,Arindhas,10017283,South,KRISHNA A,Kembio,KemBio advance WS (500gx10),240,102000
-2022-12-09,306034,Synergy Agro Industries,10007366,West,Indore,Poszyme,Poszyme 5000 (25 Kg) (Powder),-75,-5625
-2022-08-12,306044,C S R M Enterprises,10008978,South,Tanuku,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,66300
-2023-12-03,306101,Shree Naveen Poultry Feeds,10009278,North,Ajmer,Enzimix,Enzimix+ GT 250 (25K),25,4150
-2022-05-07,305068,Raj Poultry Farm,10011436,West,Indore,Previte Chick Pro,Previte Chick Pro (1L x 10),10,4750
-2023-11-03,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-08-09,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2023-05-04,309401,Poshak Farms,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),150,72000
-2023-11-02,305046,Fatema Poultry Farm,10008978,West,Wakaner,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),100,9000
-2022-05-04,305013,Vijendra Medical Hall,10007860,North,Jind,KEM LCC,KEM LCC ( 25 Kg),500,57500
-2022-08-09,306044,C S R M Enterprises,10011436,South,Tanuku,Previte Chick Pro,Previte Chick Pro (1L x 10),250,110000
-2023-11-03,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),100,7500
-2023-11-01,304986,Biotech Marketing,10008978,West,Anand,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),250,23250
-2023-03-09,306080,Lotus Farm Cure,10063679,South,Coimbatore,Kem Vit C ,KEM VIT C (25KG),-250,-162500
-2023-07-01,305046,Fatema Poultry Farm,10007860,West,Wakaner,KEM LCC,KEM LCC ( 25 Kg),125,15000
-2022-08-12,304967,Sree Meerambika Agencies,10007347,South,Hospet,Enzimix,Enzimix - Xylanase (25Kg),100,45000
-2022-12-10,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),800,64000
-2022-11-07,304968,Shree Prabhuswami Distributor,10010115,West,Jabalpur,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),50,8100
-2022-04-07,306121,New Hema Enterprises,10015568,South,Hyderabad ,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2022-12-10,305013,Vijendra Medical Hall,10008886,North,Jind,Previte,Previte-Ind (5x5 Kg),200,98000
-2022-07-11,305091,RA Health Care,10009125,North,Lucknow,Poszyme,Poszyme 5000 CT (5x5 kg),100,25500
-2023-11-01,304965,Vinayak Enterprises,10014991,North,Karnal,Premin,Premin L (25Kg),500,26500
-2023-03-10,304974,Soozwin & Co,10063693,East,Kolkata,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),200,24000
-2022-09-06,306034,Synergy Agro Industries,10009278,West,Indore,Enzimix,Enzimix+ GT 250 (25K),50,8850
-2023-08-10,306121,New Hema Enterprises,10066287,South,Hyderabad ,Copper Sulphate P,COPPER SULPHATE A (5 X 5 KG),250,65000
-2022-12-07,306121,New Hema Enterprises,10015938,South,Hyderabad ,Kembio,KemBio Advance (2 x 5Kg),380,250800
-2022-03-09,304978,Ludhiana Feed Mills Pvt Ltd,10014153,North,Ludhiana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,17500
-2023-11-09,310020,Sona Gold Agro-Chem(P) Ltd,10066078,East,Patna,Xerotox,XEROTOX (25 KG),500,24000
-2022-06-06,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-06-09,306121,New Hema Enterprises,10011732,South,Hyderabad ,Kem Sel,Kem Sel E Bio (5 x 5Kg),75,63750
-2022-05-07,306064,Poultech Agro Foods Pvt. Ltd.,10009279,East,Bhubeneswar,Enzimix,Enzimix GT (25kg),500,80000
-2022-08-09,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-07-11,305024,Nmn Ventures,10011602,West,Raipur,Kem Vit M,Kem Vit-M ( 25 Kg),4,8000
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-06-07,306072,Jeeya Medicose,10010115,West,Jabalpur,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),100,16200
-2022-07-11,305024,Nmn Ventures,10008978,West,Raipur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),375,33000
-2023-07-02,304986,Biotech Marketing,10015938,West,Anand,Kembio,KemBio Advance (2 x 5Kg),60,42000
-2022-05-07,306044,C S R M Enterprises,10015568,South,Tanuku,NDZ Forte,NDZ Forte (5 x 5Kg),250,62500
-2022-04-12,306002,Japp Poultry,10011522,North,Jind,Previte Chick Pro,Previte Chick Pro (5L x 2),100,40000
-2022-09-07,305068,Raj Poultry Farm,10009988,West,Indore,Previte ADBEC,Previte ADBEC (10 x 1 Lit),10,6600
-2022-11-04,306033,Shri Ganesh Poultries,10007224,North,Jind,Poszyme,Poszyme 5000 (25 Kg) (Granules),500,45000
-2023-11-05,306121,New Hema Enterprises,10063663,South,Hyderabad ,Previte ADBEC,Previte ADBEC (10 x 1 Lit),300,129600
-2022-03-08,306034,Synergy Agro Industries,10015904,West,Indore,Previte,Previte Cust F-2 (5 x 5kg),300,180000
-2022-10-10,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2023-08-08,304996,Shree Om Sai Venterinary Sales,10064218,West,Sangli,Kembio,KemBio Advance (2 x 5Kg),50,35000
-2022-10-07,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),700,203000
-2023-11-03,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-06-07,304982,Jaya Agency,10010115,South,Bangalore,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),500,65000
-2022-12-07,306076,Shri Balaji Medical Agency,10014150,North,Ajmer,Bromo Grane,Bromo Grane (200gm x10),10,2800
-2022-05-04,306002,Japp Poultry,10014991,North,Jind,Premin,Premin L (25Kg),500,23000
-2023-12-04,304967,Sree Meerambika Agencies,10066155,South,Hospet,Previte,PREVITE SPECIAL 500L (5 X 5KG),200,72000
-2022-08-12,304967,Sree Meerambika Agencies,10016091,South,Hospet,Bromo Grane,Bromograne (12 x 1Kg),12,16200
-2022-06-06,304982,Jaya Agency,10008978,South,Bangalore,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,10625
-2023-04-10,311003,Jisita Trading,10063691,East,Kolkata,Kembio,KEM BIO WS (1KG*10),90,56250
-2023-10-06,310085,Silver Farms,10063877,North,Barwala,Bromo Grane,Bromograne (12 x 1Kg),24,32880
-2022-07-08,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),350,98000
-2022-06-07,306030,Venkata Manoj Enterprises,10015557,South,KRISHNA A,Enzimix,Enzimix A (1Kg x 10),-79,-54352
-2023-06-06,306096,Shree Keshav Agencies,10064411,North,Ajmer,NDZ Forte,NDZ Forte (5 x 5Kg),100,26000
-2022-06-08,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),48,60202
-2022-04-08,304965,Vinayak Enterprises,10014976,North,Karnal,Xerotox,Xerotox Premium (5 x 5Kg),500,45000
-2023-05-10,305058,Venkateshwara Marketing,10061254,South,Karimnagar,Previte,PREVITE-C4Y (5 X 5 KG),750,431250
-2023-02-01,306033,Shri Ganesh Poultries,10015568,North,Jind,NDZ Forte,NDZ Forte (5 x 5Kg),325,84500
-2022-05-07,305068,Raj Poultry Farm,10009278,West,Indore,Enzimix,Enzimix+ GT 250 (25K),100,18500
-2023-10-11,305046,Fatema Poultry Farm,10065436,West,Wakaner,KEM LCC,KEM LCC ( 25 KG),125,15000
-2023-11-05,306121,New Hema Enterprises,10063693,South,Hyderabad ,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),600,72000
-2022-12-07,306121,New Hema Enterprises,10014150,South,Hyderabad ,Bromo Grane,Bromo Grane (200gm x10),210,57750
-2022-04-05,305017,Sri Athanur Amman Agro Vet,10015744,South,Rashipuram,Kem Raksha 49 ,Kem Raksha 49 (200gm x 20),40,6240
-2023-11-03,305091,RA Health Care,10010071,North,Lucknow,Kem Vit C ,Kem Vit C (25Kg),25,16250
-2022-03-07,306007,ABP Enterprises,10015568,East,24 Pargana,NDZ Forte,NDZ Forte (5 x 5Kg),50,12500
-2023-07-02,3060071,ABP Enterprises,10014153,East,Patna,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,70000
-2022-12-05,306121,New Hema Enterprises,10014150,South,Hyderabad ,Bromo Grane,Bromo Grane (200gm x10),220,60500
-2022-12-10,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),200,16000
-2022-12-11,306121,New Hema Enterprises,10011585,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),250,150000
-2023-09-05,306076,Shri Balaji Medical Agency,10063382,North,Ajmer,Premin,PREMIN-O-SE (15 X 1KG),-15,-45000
-2023-11-11,304980,Shama Enterprises,10066602,North,Barwala,Lipibond,LIPIBOND (5 X 5KG),300,55500
-2022-07-04,305091,RA Health Care,10008178,North,Lucknow,Enzimix,Enzimix Protease A ( 25 KG),200,150000
-2022-07-12,304986,Biotech Marketing,10014153,West,Anand,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,75000
-2023-10-01,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,70000
-2023-07-01,305046,Fatema Poultry Farm,10011435,West,Wakaner,Premin,Premin-O (25 Kg),75,7500
-2023-09-02,306007,ABP Enterprises,10016366,East,24 Pargana,Stedigro Advance,Stedigro Advance (25  x 1Kg),300,55500
-2023-11-03,305091,RA Health Care,10015568,North,Lucknow,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2023-05-10,306125,Asra Poultry Feed,10063542,West,Wakaner,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),210,100800
-2022-12-09,304037,Poshak Medicines,10010112,West,Anand,Kembio,Kem Bio WS (1kg*10),-30,-18750
-2022-12-05,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),200,140000
-2023-03-01,306030,Venkata Manoj Enterprises,10015559,South,KRISHNA A,Kembind Y,Kembind Y (500gm x 12),48,81792
-2023-05-01,306023,Stemsy Nutrition,10011585,North,Ludhiana,Previte,Previte Special (5 x 5Kg),75,42750
-2023-05-10,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),200,85000
-2023-03-06,310368,Nutrilyte Poultry Products,10066602,West,Anand,Lipibond,LIPIBOND (5 X 5KG),200,32000
-2022-11-08,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,9375
-2023-10-06,306072,Jeeya Medicose,10063679,West,Jabalpur,Kem Vit C ,KEM VIT C (25KG),150,97500
-2023-12-03,306101,Shree Naveen Poultry Feeds,10009988,North,Ajmer,Previte ADBEC,Previte ADBEC (10 x 1 Lit),140,92400
-2023-09-03,306077,Sivashakti Agrovet Pvt. Ltd.,10016366,East,Bhubeneswar,Stedigro Advance,Stedigro Advance (25  x 1Kg),175,24500
-2023-08-07,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),50,24000
-2023-07-01,306121,New Hema Enterprises,10011732,South,Hyderabad ,Kem Sel,Kem Sel E Bio (5 x 5Kg),250,212500
-2022-12-11,306034,Synergy Agro Industries,10015904,West,Indore,Previte,Previte Cust F-2 (5 x 5kg),400,240000
-2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,9375
-2023-12-03,305013,Vijendra Medical Hall,10012651,North,Jind,Premin -O- Plus,Premin -O- Plus ( 25 Kg),500,115000
-2022-08-12,306044,C S R M Enterprises,10008978,South,Tanuku,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,78000
-2023-02-02,306023,Stemsy Nutrition,10004613,North,Ludhiana,Poszyme,Poszyme 5000 (5 x 5 Kg) - Granules,250,22500
-2022-09-11,304966,Swastik Pharma Agency,10012600,North,Karnal,Premin,Premin-O-Se (15 x 1Kg),15,42000
-2022-08-10,304965,Vinayak Enterprises,10008638,North,Karnal,Previte,Previte-WPL (5 x 5 Kg),500,60000
-2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-02-06,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),300,108000
-2023-12-02,306101,Shree Naveen Poultry Feeds,10008978,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),950,85500
-2022-03-09,304965,Vinayak Enterprises,10014153,North,Karnal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,337500
-2022-04-09,305024,Nmn Ventures,10014193,West,Raipur,Previte,Previte SP NMN-1 (5kgx5),100,84200
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2022-05-12,304978,Ludhiana Feed Mills Pvt Ltd,10008978,North,Ludhiana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),350,29050
-2022-04-09,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),500,24000
-2022-07-04,306096,Shree Keshav Agencies,10007213,North,Ajmer,Xerotox,Xerotox (25 Kg),375,15000
-2022-12-07,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2022-08-10,304965,Vinayak Enterprises,10008638,North,Karnal,Previte,Previte-WPL (5 x 5 Kg),500,60000
-2023-05-09,306096,Shree Keshav Agencies,10064411,North,Ajmer,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2023-09-02,305019,Poulvet Enterprises,10016366,East,Bhubeneswar,Stedigro Advance,Stedigro Advance (25  x 1Kg),100,14000
-2022-04-08,305997,Max Agrovet Pvt Ltd,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,37500
-2023-04-02,305045,Gomatha Enterprises,10011775,South,Bangalore,Kem Vit M,Kem Vit M (5 kg),20,11500
-2023-07-11,304967,Sree Meerambika Agencies,10063077,South,Hospet,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),325,243750
-2023-06-03,309409,Simran Feeds Pvt Ltd,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,9600
-2023-10-01,304972,Shri Sai Distributor,10008978,West,Raipur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),250,23250
-2023-07-02,304037,Poshak Medicines,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),220,123200
-2023-11-02,305046,Fatema Poultry Farm,10007860,West,Wakaner,KEM LCC,KEM LCC ( 25 Kg),125,15000
-2022-12-07,306118,K S Associates,10011585,South,Anaparthi,Previte,Previte Special (5 x 5Kg),25,16250
-2023-08-03,306044,C S R M Enterprises,10011585,South,Tanuku,Previte,Previte Special (5 x 5Kg),25,15625
-2023-08-03,304973,S M Enterprises,10015363,East,Patna,Previte,Previte C4Y  (wc) ( 5 Kg),100,55000
-2023-07-02,305006,National Marketing,10014160,West,Wakaner,Previte,Previte-C4Y (5 x 5 Kg),325,208000
-2023-03-09,306080,Lotus Farm Cure,10066297,South,Coimbatore,Kem Sel,KEM SEL E BIO (5 X 5KG),-25,-22500
-2022-12-10,305013,Vijendra Medical Hall,10015938,North,Jind,Kembio,KemBio Advance (2 x 5Kg),20,14000
-2022-09-07,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),400,52000
-2022-10-08,306121,New Hema Enterprises,10014991,South,Hyderabad ,Premin,Premin L (25Kg),500,24000
-2023-11-02,305046,Fatema Poultry Farm,10011585,West,Wakaner,Previte,Previte Special (5 x 5Kg),25,18250
-2023-09-09,305090,Sri Lakshmi Traders,10066155,South,Namakkal,Previte,PREVITE SPECIAL 500L (5 X 5KG),2000,620000
-2023-08-03,304980,Shama Enterprises,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),350,192500
-2022-08-10,305997,Max Agrovet Pvt Ltd,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),200,15000
-2022-05-11,306007,ABP Enterprises,10014153,East,24 Pargana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2022-06-06,304982,Jaya Agency,10008978,South,Bangalore,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),375,31875
-2022-03-07,304985,Tawakkal Poultry Pvt. Ltd.,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),300,85500
-2023-08-02,306127,Krishna Poultry & Cattle Feed,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),200,52000
-2023-05-11,304996,Shree Om Sai Venterinary Sales,10063877,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),24,32880
-2022-11-10,306030,Venkata Manoj Enterprises,10007549,South,KRISHNA A,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),180,47700
-2022-12-06,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),48,60202
-2022-03-07,304985,Tawakkal Poultry Pvt. Ltd.,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),200,57000
-2022-07-11,305003,Shree Brahamani Agency,10014156,West,Anand,Previte Alpha-D3 Conc.,Previte Alpha-D3 (100gm x 10),2,26000
-2023-07-01,305098,Neoline Pharma,10015568,West,Pune,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2022-05-12,305024,Nmn Ventures,10014193,West,Raipur,Previte,Previte SP NMN-1 (5kgx5),100,82500
-2022-03-11,305045,Gomatha Enterprises,10011602,South,Bangalore,Kem Vit M,Kem Vit-M ( 25 Kg),7,19250
-2022-09-06,306034,Synergy Agro Industries,10007224,West,Indore,Poszyme,Poszyme 5000 (25 Kg) (Granules),50,4500
-2023-05-10,305098,Neoline Pharma,10063542,West,Pune,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),250,109993
-2022-09-06,304997,Lotus Poultries Pvt. Ltd.,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30101
-2022-11-09,305998,Titu Poultry Feed Supplement Store,10007224,North,Jind,Poszyme,Poszyme 5000 (25 Kg) (Granules),125,10913
-2023-10-11,305046,Fatema Poultry Farm,10061247,West,Wakaner,Premin,PREMIN-O (25 KG),50,5000
-2023-05-10,305058,Venkateshwara Marketing,10066080,South,Karimnagar,Poszyme,POSZYME 5000 (25 KG) (GRANULES),1000,90000
-2023-05-10,304965,Vinayak Enterprises,10065441,North,Karnal,Enzimix,ENZIMIX PROTEASE A ( 25 KG),50,36250
-2023-09-02,304968,Shree Prabhuswami Distributor,10014153,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,20000
-2023-07-02,3060071,ABP Enterprises,10009278,East,Patna,Enzimix,Enzimix+ GT 250 (25K),50,9250
-2023-09-02,304966,Swastik Pharma Agency,10014991,North,Karnal,Premin,Premin L (25Kg),500,25000
-2022-09-06,306034,Synergy Agro Industries,10015904,West,Indore,Previte,Previte Cust F-2 (5 x 5kg),250,150000
-2022-07-04,306096,Shree Keshav Agencies,10007213,North,Ajmer,Xerotox,Xerotox (25 Kg),500,20000
-2022-12-10,305013,Vijendra Medical Hall,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),200,17000
-2023-07-01,305046,Fatema Poultry Farm,10008978,West,Wakaner,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),100,9000
-2022-10-05,304967,Sree Meerambika Agencies,10010104,South,Hospet,Kembio,Kem Bio + (1kgx10),80,32000
-2022-09-05,304967,Sree Meerambika Agencies,10010104,South,Hospet,Kembio,Kem Bio + (1kgx10),10,4000
-2022-10-09,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2022-09-07,304965,Vinayak Enterprises,10011522,North,Karnal,Previte Chick Pro,Previte Chick Pro (5L x 2),100,43000
-2022-12-12,305086,Excel Enterprises,10008978,South,Vijaywada,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2023-05-09,305024,Nmn Ventures,10063087,West,Raipur,Previte,PREVITE SP NMN-1 (5KGX5),100,82500
-2023-08-02,306127,Krishna Poultry & Cattle Feed,10015938,West,Anand,Kembio,KemBio Advance (2 x 5Kg),100,68000
-2023-09-05,306076,Shri Balaji Medical Agency,10063691,North,Ajmer,Kembio,KEM BIO WS (1KG*10),-17,-10306
-2022-11-06,304980,Shama Enterprises,10007212,North,Barwala,Stedigro,Stedigro (10 x 1 KG),100,21000
-2022-08-11,305033,Star Products India,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,42500
-2022-12-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2022-12-11,306121,New Hema Enterprises,10011585,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),350,210000
-2022-06-11,304996,Shree Om Sai Venterinary Sales,10010114,West,Sangli,Kem-O-Cid pHB,Kem-O-Cid pHB (12 x 1L),96,13152
-2023-03-09,306080,Lotus Farm Cure,10062715,South,Coimbatore,Enzimix,ENZIMIX (25 KG),-50,-8500
-2023-06-09,304974,Soozwin & Co,10063693,East,Kolkata,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),200,24000
-2023-09-03,306077,Sivashakti Agrovet Pvt. Ltd.,10007212,East,Bhubeneswar,Stedigro,Stedigro (10 x 1 KG),100,10000
-2022-12-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),225,55125
-2022-12-10,305013,Vijendra Medical Hall,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),800,68000
-2023-04-10,305087,Phoenix Poultry,10063691,West,Jabalpur,Kembio,KEM BIO WS (1KG*10),100,62500
-2023-06-06,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),40,19200
-2023-04-11,304992,Sai Agencies,10063691,West,Jabalpur,Kembio,KEM BIO WS (1KG*10),10,6250
-2023-11-03,305086,Excel Enterprises,10015568,South,Vijaywada,NDZ Forte,NDZ Forte (5 x 5Kg),250,65000
-2022-10-10,306123,Jigar Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),225,10800
-2023-02-11,304967,Sree Meerambika Agencies,10063556,South,Hospet,Previte Chick Pro,PREVITE CHICK PRO (5L X 2),50,21000
-2023-06-05,306064,Poultech Agro Foods Pvt. Ltd.,10062489,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),5000,375000
-2022-10-08,305017,Sri Athanur Amman Agro Vet,10007347,South,Rashipuram,Enzimix,Enzimix - Xylanase (25Kg),100,45000
-2023-10-01,305087,Phoenix Poultry,10010104,West,Jabalpur,Kembio,Kem Bio + (1kgx10),100,40000
-2022-11-09,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),130,16510
-2022-07-04,306096,Shree Keshav Agencies,10008978,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,70000
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2023-09-05,306076,Shri Balaji Medical Agency,10064907,North,Ajmer,Xerotox,XEROTOX PREMIUM (5 X 5KG),-175,-21000
-2022-04-08,304965,Vinayak Enterprises,10007359,North,Karnal,Kem Raksha Plus,Kem Raksha Plus (12 X 1 L),24,6840
-2022-12-07,304987,Lotus Farms,10014430,South,Bangalore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),80,880000
-2023-10-11,305046,Fatema Poultry Farm,10066078,West,Wakaner,Xerotox,XEROTOX (25 KG),100,4800
-2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),225,10350
-2023-08-03,306044,C S R M Enterprises,10011585,South,Tanuku,Previte,Previte Special (5 x 5Kg),125,78125
-2023-10-08,310721,Sri Thirumala Traders,10066155,South,Rashipuram,Previte,PREVITE SPECIAL 500L (5 X 5KG),1000,350000
-2022-12-09,305029,Mittal Enterprises,10008978,North,Barwala,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,44000
-2022-09-11,304966,Swastik Pharma Agency,10008886,North,Karnal,Previte,Previte-Ind (5x5 Kg),150,72000
-2023-11-01,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2023-10-07,304986,Biotech Marketing,10064218,West,Anand,Kembio,KemBio Advance (2 x 5Kg),50,35000
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10007213,North,Barwala,Xerotox,Xerotox (25 Kg),500,20000
-2023-11-02,305046,Fatema Poultry Farm,10011435,West,Wakaner,Premin,Premin-O (25 Kg),75,7500
-2022-09-06,306034,Synergy Agro Industries,10015938,West,Indore,Kembio,KemBio Advance (2 x 5Kg),20,14000
-2023-11-01,304965,Vinayak Enterprises,10016091,North,Karnal,Bromo Grane,Bromograne (12 x 1Kg),12,16200
-2022-06-06,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-11-02,306036,Arindhas,10015559,South,KRISHNA A,Kembind Y,Kembind Y (500gm x 12),90,153360
-2022-04-09,305098,Neoline Pharma,10016254,West,Pune,Kembio,Kembio Advance WS (100 gm x 20),100,9000
-2023-03-08,305086,Excel Enterprises,10063542,South,Vijaywada,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),-60,-27300
-2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10010115,North,Ludhiana,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),250,32500
-2022-09-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2022-06-06,304982,Jaya Agency,10016254,South,Bangalore,Kembio,Kembio Advance WS (100 gm x 20),100,9500
-2023-06-04,306096,Shree Keshav Agencies,10063982,North,Ajmer,Kembio,Kembio Advance WS (100 gm x 20),140,12600
-2022-12-11,306034,Synergy Agro Industries,10009279,West,Indore,Enzimix,Enzimix GT (25kg),125,22125
-2022-12-07,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),150,105000
-2022-03-09,304965,Vinayak Enterprises,10014153,North,Karnal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,337500
-2022-07-08,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),225,10350
-2022-10-12,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),380,48260
-2022-03-07,306002,Japp Poultry,10011522,North,Jind,Previte Chick Pro,Previte Chick Pro (5L x 2),150,60000
-2023-10-10,311003,Jisita Trading,10063691,East,Kolkata,Kembio,KEM BIO WS (1KG*10),210,131250
-2023-05-01,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),925,74000
-2023-05-07,304991,Khushboo Feed Mills (P) Ltd,10066388,North,Karnal,Premin,Premin L (25Kg),2000,106000
-2023-07-02,3060071,ABP Enterprises,10014976,East,Patna,Xerotox,Xerotox Premium (5 x 5Kg),200,19000
-2022-04-07,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2022-03-07,305013,Vijendra Medical Hall,10014991,North,Jind,Premin,Premin L (25Kg),175,8050
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,63750
-2023-11-03,305091,RA Health Care,10015568,North,Lucknow,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2022-12-05,305047,S M Bios,10014492,South,Coimbatore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5 x 1Kg),5,58750
-2023-12-08,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),70,33600
-2023-04-10,304973,S M Enterprises,10062712,East,Patna,Poszyme,POSZYME 5000 (5 X 5 KG) - GRANULES,125,11250
-2022-08-10,304965,Vinayak Enterprises,10015058,North,Karnal,Premin,Premin V (25Kg),125,9375
-2022-11-08,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2022-11-05,304974,Soozwin & Co,10014976,East,Kolkata,Xerotox,Xerotox Premium (5 x 5Kg),250,23750
-2022-06-10,304030,Alora Agritech Pvt. Ltd.,10015938,North,Karnal,Kembio,KemBio Advance (2 x 5Kg),10,7000
-2022-04-08,306123,Jigar Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),250,12000
-2023-11-11,306096,Shree Keshav Agencies,10066388,North,Ajmer,Premin,Premin L (25Kg),2000,102000
-2023-10-07,304986,Biotech Marketing,10063077,West,Anand,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),250,187500
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10062489,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-11-08,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-12-11,306121,New Hema Enterprises,10011585,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),350,210000
-2023-09-03,309405,Kumaran Vet Agencies,10014153,South,Rashipuram,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),150,120000
-2022-08-09,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),370,46990
-2022-12-09,306206,CPF (India) Private Limited,10016091,South,Coimbatore,Bromo Grane,Bromograne (12 x 1Kg),24,29688
-2023-06-11,304973,S M Enterprises,10062489,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1500,120000
-2022-06-07,305046,Fatema Poultry Farm,10015568,West,Wakaner,NDZ Forte,NDZ Forte (5 x 5Kg),25,6500
-2022-04-07,306206,CPF (India) Private Limited,10014752,South,Coimbatore,Previte Chick Pro,Previte Chick Pro 5 Lit (EA),10,17320
-2023-03-06,305046,Fatema Poultry Farm,10065436,West,Wakaner,KEM LCC,KEM LCC ( 25 KG),125,15000
-2022-12-05,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),300,210000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2023-05-10,306125,Asra Poultry Feed,10067732,West,Wakaner,Bromo Grane,BROMOGRANE (10 x 500 GM),200,145000
-2022-06-07,304982,Jaya Agency,10015568,South,Bangalore,NDZ Forte,NDZ Forte (5 x 5Kg),300,75000
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),350,26250
-2022-12-10,305013,Vijendra Medical Hall,10008886,North,Jind,Previte,Previte-Ind (5x5 Kg),50,24500
-2023-11-02,304996,Shree Om Sai Venterinary Sales,10014150,West,Sangli,Bromo Grane,Bromo Grane (200gm x10),90,25200
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-08-06,309405,Kumaran Vet Agencies,10062489,South,Rashipuram,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,42500
-2023-05-06,305046,Fatema Poultry Farm,10062394,West,Wakaner,Enzimix,ENZIMIX + (25 KG),25,4250
-2023-08-06,309405,Kumaran Vet Agencies,10061262,South,Rashipuram,Eucamint ,EUCAMINT (500ML X 12),48,34200
-2022-01-11,306054,Ashoka Cattle & Poultry Feeds Pvt.,10014976,East,Patna,Xerotox,Xerotox Premium (5 x 5Kg),-3525,-218550
-2023-08-01,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),775,58125
-2023-11-02,304996,Shree Om Sai Venterinary Sales,10017283,West,Sangli,Kembio,KemBio advance WS (500gx10),50,21250
-2022-03-05,306070,Sandeep Poultry Medicine Shop,10015744,West,Jabalpur,Kem Raksha 49 ,Kem Raksha 49 (200gm x 20),40,6240
-2022-12-07,306118,K S Associates,10011585,South,Anaparthi,Previte,Previte Special (5 x 5Kg),275,178750
-2022-10-08,306121,New Hema Enterprises,10009988,South,Hyderabad ,Previte ADBEC,Previte ADBEC (10 x 1 Lit),200,86400
-2023-05-07,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),300,54000
-2023-08-03,304980,Shama Enterprises,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),275,151250
-2023-07-05,304980,Shama Enterprises,10066287,North,Barwala,Copper Sulphate P,COPPER SULPHATE A (5 X 5 KG),500,140000
-2023-09-08,304965,Vinayak Enterprises,10066080,North,Karnal,Poszyme,POSZYME 5000 (25 KG) (GRANULES),1000,85000
-2022-09-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2022-06-09,304967,Sree Meerambika Agencies,10011522,South,Hospet,Previte Chick Pro,Previte Chick Pro (5L x 2),50,21500
-2023-08-02,304978,Ludhiana Feed Mills Pvt Ltd,10017302,North,Ludhiana,Kem-O-Cid Supreme,Kem-O-Cid Supreme (25 Kg),500,55000
-2023-02-02,306023,Stemsy Nutrition,10011436,North,Ludhiana,Previte Chick Pro,Previte Chick Pro (1L x 10),40,17400
-2023-10-04,305013,Vijendra Medical Hall,10063077,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),1000,700000
-2022-07-04,306096,Shree Keshav Agencies,10007213,North,Ajmer,Xerotox,Xerotox (25 Kg),125,5000
-2022-04-07,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),100,28820
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-10-08,304981,Ravindra Medicose,10015568,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),225,58500
-2023-06-03,304974,Soozwin & Co,10007212,East,Kolkata,Stedigro,Stedigro (10 x 1 KG),450,45000
-2023-06-11,311003,Jisita Trading,10062489,East,Kolkata,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,12750
-2022-12-07,306044,C S R M Enterprises,10011585,South,Tanuku,Previte,Previte Special (5 x 5Kg),75,48750
-2022-03-07,305003,Shree Brahamani Agency,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),250,62500
-2023-09-02,305019,Poulvet Enterprises,10015938,East,Bhubeneswar,Kembio,KemBio Advance (2 x 5Kg),50,35000
-2023-09-02,304968,Shree Prabhuswami Distributor,10008978,West,Jabalpur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,44000
-2022-12-07,306121,New Hema Enterprises,10015938,South,Hyderabad ,Kembio,KemBio Advance (2 x 5Kg),620,409200
-2022-08-09,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,37500
-2023-09-05,306076,Shri Balaji Medical Agency,10066080,North,Ajmer,Poszyme,POSZYME 5000 (25 KG) (GRANULES),-175,-15750
-2023-12-03,306101,Shree Naveen Poultry Feeds,10009278,North,Ajmer,Enzimix,Enzimix+ GT 250 (25K),500,83000
-2023-05-04,305003,Shree Brahamani Agency,10062489,West,Anand,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),300,25500
-2023-11-03,304965,Vinayak Enterprises,10014580,North,Karnal,Poszyme,Poszyme 25000 CT(5x5kg),250,22500
-2023-09-11,306121,New Hema Enterprises,10063077,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),1000,700000
-2023-05-01,306023,Stemsy Nutrition,10004613,North,Ludhiana,Poszyme,Poszyme 5000 (5 x 5 Kg) - Granules,250,22500
-2023-10-11,305046,Fatema Poultry Farm,10064907,West,Wakaner,Xerotox,XEROTOX PREMIUM (5 X 5KG),100,9300
-2022-11-05,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30096
-2023-04-10,311003,Jisita Trading,10063663,East,Kolkata,Previte ADBEC,Previte ADBEC (10 x 1 Lit),300,198000
-2022-09-07,306080,Lotus Farm Cure,10010115,South,Coimbatore,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),300,43500
-2023-08-08,304996,Shree Om Sai Venterinary Sales,10063663,West,Sangli,Previte ADBEC,Previte ADBEC (10 x 1 Lit),40,26400
-2022-11-07,304968,Shree Prabhuswami Distributor,10010114,West,Jabalpur,Kem-O-Cid pHB,Kem-O-Cid pHB (12 x 1L),60,11100
-2022-07-04,306096,Shree Keshav Agencies,10007213,North,Ajmer,Xerotox,Xerotox (25 Kg),500,20000
-2023-05-01,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
-2022-12-05,304982,Jaya Agency,10014492,South,Bangalore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5 x 1Kg),5,58750
-2023-08-11,310516,Mama Bhanja Traders,10066497,North,Ajmer,Kem Raksha 49 ,KEMRAKSHA - A (1KG X 10),20,13120
-2023-08-10,306121,New Hema Enterprises,10066287,South,Hyderabad ,Copper Sulphate P,COPPER SULPHATE A (5 X 5 KG),300,78000
-2023-05-01,306023,Stemsy Nutrition,10011585,North,Ludhiana,Previte,Previte Special (5 x 5Kg),350,199500
-2023-12-10,305086,Excel Enterprises,10064411,South,Vijaywada,NDZ Forte,NDZ Forte (5 x 5Kg),300,69000
-2022-08-12,305058,Venkateshwara Marketing,10009988,South,Karimnagar,Previte ADBEC,Previte ADBEC (10 x 1 Lit),100,63000
-2022-04-09,305091,RA Health Care,10014150,North,Lucknow,Bromo Grane,Bromo Grane (200gm x10),100,28000
-2023-04-04,304982,Jaya Agency,10062489,South,Bangalore,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,40000
-2023-05-09,305022,Real Enterprise,10063077,West,Wakaner,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,20000
-2022-04-08,305046,Fatema Poultry Farm,10007712,West,Wakaner,Enzimix,Enzimix + (25 Kg),25,4250
-2022-09-04,304966,Swastik Pharma Agency,10014153,North,Karnal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2023-12-10,305086,Excel Enterprises,10064411,South,Vijaywada,NDZ Forte,NDZ Forte (5 x 5Kg),400,92000
-2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),200,56000
-2023-12-10,304986,Biotech Marketing,10064218,West,Anand,Kembio,KemBio Advance (2 x 5Kg),50,29500
-2022-08-10,306002,Japp Poultry,10011436,North,Jind,Previte Chick Pro,Previte Chick Pro (1L x 10),70,31500
-2022-06-08,305009,Srinivasa Poultry Medicals Co.,10011436,South,Anaparthi,Previte Chick Pro,Previte Chick Pro (1L x 10),-50,-22500
-2022-12-04,305006,National Marketing,10014160,West,Wakaner,Previte,Previte-C4Y (5 x 5 Kg),100,67500
-2023-06-11,304973,S M Enterprises,10062519,East,Patna,Enzimix,Enzimix GT (25 kg),125,23125
-2022-08-10,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),150,6000
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-06-11,304973,S M Enterprises,10064907,East,Patna,Xerotox,XEROTOX PREMIUM (5 X 5KG),275,25575
-2023-07-08,304967,Sree Meerambika Agencies,10063693,South,Hospet,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),200,24000
-2023-11-03,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-02-08,304967,Sree Meerambika Agencies,10063077,South,Hospet,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),450,337500
-2022-04-08,306096,Shree Keshav Agencies,10011436,North,Ajmer,Previte Chick Pro,Previte Chick Pro (1L x 10),250,100000
-2023-08-08,304978,Ludhiana Feed Mills Pvt Ltd,10066616,North,Ludhiana,Kem-O-Cid Supreme,KEM-O-CID SUPREME (25 KG),800,80000
-2023-12-08,309405,Kumaran Vet Agencies,10063077,South,Rashipuram,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),125,100000
-2023-03-01,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),350,126000
-2023-07-11,311237,Synergy Animal Feed,10066388,North,Ajmer,Premin,Premin L (25Kg),1500,81000
-2023-06-07,309405,Kumaran Vet Agencies,10062489,South,Rashipuram,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,42500
-2023-05-02,3060071,ABP Enterprises,10010115,East,Patna,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),100,13000
-2023-07-11,311237,Synergy Animal Feed,10062489,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1500,120000
-2022-09-07,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),80,10400
-2023-04-10,311003,Jisita Trading,10063693,East,Kolkata,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),300,36000
-2022-09-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,122500
-2023-07-06,305022,Real Enterprise,10063688,West,Wakaner,Kembio,KEM BIO + (1KGX10),40,16000
-2023-11-11,304980,Shama Enterprises,10063542,North,Barwala,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),100,48000
-2023-07-05,304980,Shama Enterprises,10066388,North,Barwala,Premin,Premin L (25Kg),2000,102000
-2022-03-07,304986,Biotech Marketing,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),200,48000
-2022-04-08,305046,Fatema Poultry Farm,10014991,West,Wakaner,Premin,Premin L (25Kg),50,2400
-2023-11-03,305091,RA Health Care,10016366,North,Lucknow,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
-2022-11-06,306080,Lotus Farm Cure,10016254,South,Coimbatore,Kembio,Kembio Advance WS (100 gm x 20),340,34000
-2022-07-11,305024,Nmn Ventures,10015938,West,Raipur,Kembio,KemBio Advance (2 x 5Kg),300,247500
-2022-07-11,305003,Shree Brahamani Agency,10014991,West,Anand,Premin,Premin L (25Kg),225,10800
-2023-06-05,304981,Ravindra Medicose,10064411,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),100,26000
-2023-07-02,3060071,ABP Enterprises,10015938,East,Patna,Kembio,KemBio Advance (2 x 5Kg),500,340000
-2023-03-06,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,9600
-2023-08-03,304973,S M Enterprises,10009278,East,Patna,Enzimix,Enzimix+ GT 250 (25K),50,9250
-2022-03-07,304965,Vinayak Enterprises,10008638,North,Karnal,Previte,Previte-WPL (5 x 5 Kg),500,60000
-2022-12-05,306121,New Hema Enterprises,10007860,South,Hyderabad ,KEM LCC,KEM LCC ( 25 Kg),275,30250
-2022-06-07,305046,Fatema Poultry Farm,10011435,West,Wakaner,Premin,Premin-O (25 Kg),100,10000
-2022-12-10,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
-2023-11-10,305013,Vijendra Medical Hall,10066388,North,Jind,Premin,Premin L (25Kg),1000,51000
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10007213,North,Barwala,Xerotox,Xerotox (25 Kg),75,3000
-2023-06-03,304974,Soozwin & Co,10007212,East,Kolkata,Stedigro,Stedigro (10 x 1 KG),450,45000
-2023-03-08,305086,Excel Enterprises,10063877,South,Vijaywada,Bromo Grane,Bromograne (12 x 1Kg),-48,-64800
-2023-09-05,306076,Shri Balaji Medical Agency,10061262,North,Ajmer,Eucamint ,EUCAMINT (500ML X 12),-12,-9000
-2022-05-04,306002,Japp Poultry,10014991,North,Jind,Premin,Premin L (25Kg),300,13800
-2023-08-06,309405,Kumaran Vet Agencies,10066602,South,Rashipuram,Lipibond,LIPIBOND (5 X 5KG),100,18500
-2022-11-04,305091,RA Health Care,10010071,North,Lucknow,Kem Vit C ,Kem Vit C (25Kg),100,72500
-2022-04-12,304965,Vinayak Enterprises,10011732,North,Karnal,Kem Sel,Kem Sel E Bio (5 x 5Kg),175,148750
-2023-06-03,306033,Shri Ganesh Poultries,10012600,North,Jind,Premin,Premin-O-Se (15 x 1Kg),15,42000
-2022-10-08,305021,Earthvet Agencies,10015938,West,Indore,Kembio,KemBio Advance (2 x 5Kg),100,70000
-2022-08-09,304984,Divi Enterprises,10007224,South,Hyderabad ,Poszyme,Poszyme 5000 (25 Kg) (Granules),1700,141100
-2023-04-05,306101,Shree Naveen Poultry Feeds,10066602,North,Ajmer,Lipibond,LIPIBOND (5 X 5KG),175,32375
-2023-04-02,305045,Gomatha Enterprises,10011602,South,Bangalore,Kem Vit M,Kem Vit-M ( 25 Kg),10,27500
-2023-11-02,304996,Shree Om Sai Venterinary Sales,10016091,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),36,48600
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10062489,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),200,15000
-2023-11-09,304996,Shree Om Sai Venterinary Sales,10066521,West,Sangli,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),80,48000
-2022-11-08,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,65625
-2023-09-02,304966,Swastik Pharma Agency,10014991,North,Karnal,Premin,Premin L (25Kg),500,25000
-2022-07-09,306007,ABP Enterprises,10009278,East,24 Pargana,Enzimix,Enzimix+ GT 250 (25K),225,41625
-2022-06-11,306121,New Hema Enterprises,10004658,South,Hyderabad ,Enzimix,Enzimix (25 kg),450,76500
-2022-06-07,305046,Fatema Poultry Farm,10007712,West,Wakaner,Enzimix,Enzimix + (25 Kg),25,4250
-2023-03-06,305046,Fatema Poultry Farm,10066078,West,Wakaner,Xerotox,XEROTOX (25 KG),75,3600
-2023-12-02,306101,Shree Naveen Poultry Feeds,10012651,North,Ajmer,Premin -O- Plus,Premin -O- Plus ( 25 Kg),575,132250
-2023-11-09,304996,Shree Om Sai Venterinary Sales,10063693,West,Sangli,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),200,24000
-2023-11-01,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),400,16000
-2023-09-09,305090,Sri Lakshmi Traders,10062489,South,Namakkal,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,85000
-2022-10-12,306121,New Hema Enterprises,10008978,South,Hyderabad ,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,12750
-2022-06-07,306030,Venkata Manoj Enterprises,10015556,South,KRISHNA A,Kembio,Kembio WP (1Kg x 10),-8,-11968
-2022-06-07,306030,Venkata Manoj Enterprises,10015557,South,KRISHNA A,Enzimix,Enzimix A (1Kg x 10),-25,-17200
-2023-05-04,305003,Shree Brahamani Agency,10064411,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),25,6375
-2023-05-10,305098,Neoline Pharma,10063079,West,Pune,Previte Alpha-D3 Conc.,PREVITE ALPHA-D3 (100GM X 10),10,13000
-2023-09-04,306121,New Hema Enterprises,10063580,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),350,183750
-2023-06-03,304974,Soozwin & Co,10007212,East,Kolkata,Stedigro,Stedigro (10 x 1 KG),100,10000
-2022-03-10,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),17,19125
-2022-06-12,305098,Neoline Pharma,10011436,West,Pune,Previte Chick Pro,Previte Chick Pro (1L x 10),210,92400
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-12-07,306121,New Hema Enterprises,10007224,South,Hyderabad ,Poszyme,Poszyme 5000 (25 Kg) (Granules),500,45000
-2022-03-07,305098,Neoline Pharma,10015568,West,Pune,NDZ Forte,NDZ Forte (5 x 5Kg),200,50000
-2023-08-08,305022,Real Enterprise,10063077,West,Wakaner,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,20000
-2023-09-02,304966,Swastik Pharma Agency,10010104,North,Karnal,Kembio,Kem Bio + (1kgx10),280,95200
-2022-06-07,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30101
-2023-04-11,306007,ABP Enterprises,10064907,East,24 Pargana,Xerotox,XEROTOX PREMIUM (5 X 5KG),1000,90000
-2022-04-08,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),500,24000
-2023-09-02,304966,Swastik Pharma Agency,10014991,North,Karnal,Premin,Premin L (25Kg),500,25000
-2022-04-09,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),275,13200
-2022-06-09,306072,Jeeya Medicose,10014153,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,80000
-2022-12-10,306007,ABP Enterprises,10009988,East,24 Pargana,Previte ADBEC,Previte ADBEC (10 x 1 Lit),30,19800
-2022-03-07,305098,Neoline Pharma,10015568,West,Pune,NDZ Forte,NDZ Forte (5 x 5Kg),300,75000
-2022-12-07,306121,New Hema Enterprises,10009988,South,Hyderabad ,Previte ADBEC,Previte ADBEC (10 x 1 Lit),300,129600
-2022-04-08,304982,Jaya Agency,10011436,South,Bangalore,Previte Chick Pro,Previte Chick Pro (1L x 10),100,45500
-2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),500,140000
-2022-10-08,306121,New Hema Enterprises,10007213,South,Hyderabad ,Xerotox,Xerotox (25 Kg),150,6750
-2022-06-11,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),375,31125
-2023-05-10,304965,Vinayak Enterprises,10062811,North,Karnal,Enzimix,ENZIMIX - XYLANASE (25KG),50,21250
-2023-10-05,306127,Krishna Poultry & Cattle Feed,10064218,West,Anand,Kembio,KemBio Advance (2 x 5Kg),100,68000
-2023-03-10,304980,Shama Enterprises,10066080,North,Barwala,Poszyme,POSZYME 5000 (25 KG) (GRANULES),250,22500
-2023-10-07,305002,Yojana Poultry Pvt Ltd,10066521,West,Pune,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),30,19500
-2023-10-09,309419,Master Overseas,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),50,24000
-2022-04-07,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2023-12-02,306101,Shree Naveen Poultry Feeds,10008978,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),50,4500
-2022-12-10,306007,ABP Enterprises,10014150,East,24 Pargana,Bromo Grane,Bromo Grane (200gm x10),120,33000
-2023-03-06,305046,Fatema Poultry Farm,10063580,West,Wakaner,Previte,Previte Special (5 x 5Kg),50,32750
-2023-11-05,309436,Kissan Medical Agencies,10066077,North,Ajmer,Stedigro,STEDIGRO (25 X 1 KG),200,20000
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10062489,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-04-10,304973,S M Enterprises,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),100,18500
-2022-04-08,305058,Venkateshwara Marketing,10014160,South,Karimnagar,Previte,Previte-C4Y (5 x 5 Kg),350,224000
-2023-12-02,306101,Shree Naveen Poultry Feeds,10011585,North,Ajmer,Previte,Previte Special (5 x 5Kg),100,60000
-2023-04-10,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),150,27000
-2023-07-05,304980,Shama Enterprises,10063542,North,Barwala,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),50,24000
-2023-08-06,309405,Kumaran Vet Agencies,10063077,South,Rashipuram,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),125,100000
-2023-05-10,304996,Shree Om Sai Venterinary Sales,10066080,West,Sangli,Poszyme,POSZYME 5000 (25 KG) (GRANULES),250,22500
-2023-11-02,304996,Shree Om Sai Venterinary Sales,10016091,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),36,48600
-2023-04-09,305098,Neoline Pharma,10063542,West,Pune,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),250,109993
-2023-09-05,306076,Shri Balaji Medical Agency,10066080,North,Ajmer,Poszyme,POSZYME 5000 (25 KG) (GRANULES),-75,-6766
-2022-10-10,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2023-08-11,305045,Gomatha Enterprises,10063582,South,Bangalore,Kem Vit M,KEM VIT-M ( 25 KG),25,68750
-2023-04-01,304996,Shree Om Sai Venterinary Sales,10010114,West,Sangli,Kem-O-Cid pHB,Kem-O-Cid pHB (12 x 1L),36,4932
-2022-11-08,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),275,66000
-2023-12-06,306096,Shree Keshav Agencies,10064411,North,Ajmer,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
-2022-12-11,306121,New Hema Enterprises,10011585,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),50,30000
-2022-12-12,305086,Excel Enterprises,10008978,South,Vijaywada,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2022-03-07,304986,Biotech Marketing,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),300,72000
-2023-11-03,305091,RA Health Care,10015568,North,Lucknow,NDZ Forte,NDZ Forte (5 x 5Kg),100,24000
-2022-06-08,305029,Mittal Enterprises,10008134,North,Barwala,Previte,Previte++1 (5 x 5 Kg),-290,-136300
-2023-12-08,305013,Vijendra Medical Hall,10066388,North,Jind,Premin,Premin L (25Kg),500,26500
-2023-09-02,304966,Swastik Pharma Agency,10010104,North,Karnal,Kembio,Kem Bio + (1kgx10),220,74800
-2023-08-03,304973,S M Enterprises,10007212,East,Patna,Stedigro,Stedigro (10 x 1 KG),50,5000
-2022-08-10,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2023-09-11,309401,Poshak Farms,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),50,24000
-2023-03-08,305087,Phoenix Poultry,10063077,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),250,200000
-2022-06-08,305029,Mittal Enterprises,10008134,North,Barwala,Previte,Previte++1 (5 x 5 Kg),-300,-165000
-2023-03-06,305046,Fatema Poultry Farm,10061247,West,Wakaner,Premin,PREMIN-O (25 KG),100,10000
-2023-09-03,309405,Kumaran Vet Agencies,10010071,South,Rashipuram,Kem Vit C ,Kem Vit C (25Kg),50,32500
-2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),450,49500
-2023-05-03,306125,Asra Poultry Feed,10016366,West,Wakaner,Stedigro Advance,Stedigro Advance (25  x 1Kg),225,34875
-2022-05-11,306007,ABP Enterprises,10014153,East,24 Pargana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),400,280000
-2023-12-09,306127,Krishna Poultry & Cattle Feed,10000676,West,Anand,Bromo Grane,BROMO GRANE (200GM X10),50,15500
-2023-12-03,306101,Shree Naveen Poultry Feeds,10016366,North,Ajmer,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
-2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
-2022-10-08,306019,Dhk Agro Feeds & Farms Pvt Ltd,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),375,34875
-2023-12-04,304967,Sree Meerambika Agencies,10062489,South,Hospet,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
-2023-11-02,305046,Fatema Poultry Farm,10007213,West,Wakaner,Xerotox,Xerotox (25 Kg),100,4800
-2023-11-02,305046,Fatema Poultry Farm,10007712,West,Wakaner,Enzimix,Enzimix + (25 Kg),25,4250
-2022-04-09,305091,RA Health Care,10015363,North,Lucknow,Previte,Previte C4Y  (wc) ( 5 Kg),300,159000
-2022-08-10,305997,Max Agrovet Pvt Ltd,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),675,50625
-2022-10-10,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2022-04-08,305997,Max Agrovet Pvt Ltd,10015938,East,Patna,Kembio,KemBio Advance (2 x 5Kg),60,42000
-2023-12-10,305086,Excel Enterprises,10064411,South,Vijaywada,NDZ Forte,NDZ Forte (5 x 5Kg),300,69000
-2023-10-06,304980,Shama Enterprises,10066080,North,Barwala,Poszyme,POSZYME 5000 (25 KG) (GRANULES),500,45000
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-03-10,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),20,22500
-2023-03-01,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),300,108000
-2023-12-02,306101,Shree Naveen Poultry Feeds,10012651,North,Ajmer,Premin -O- Plus,Premin -O- Plus ( 25 Kg),425,97750
-2023-10-11,305046,Fatema Poultry Farm,10066388,West,Wakaner,Premin,Premin L (25Kg),50,2650
-2023-05-10,305031,Irani Poultry Farm,10063542,West,Anand,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),20,9100
-2023-03-10,305088,Sona Gold Agro Chem Pvt Ltd,10067126,East,Patna,Stedigro Advance,Stedigro Advance (25 Kg),200,36000
-2023-09-02,306007,ABP Enterprises,10016366,East,24 Pargana,Stedigro Advance,Stedigro Advance (25  x 1Kg),200,37000
-2023-08-08,304974,Soozwin & Co,10066616,East,Kolkata,Kem-O-Cid Supreme,KEM-O-CID SUPREME (25 KG),300,37500
-2023-08-06,304974,Soozwin & Co,10063077,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),1000,700000
-2023-05-03,306125,Asra Poultry Feed,10016366,West,Wakaner,Stedigro Advance,Stedigro Advance (25  x 1Kg),275,42625
-2023-03-08,304991,Khushboo Feed Mills (P) Ltd,10066388,North,Karnal,Premin,Premin L (25Kg),2000,106000
-2023-11-01,304965,Vinayak Enterprises,10014991,North,Karnal,Premin,Premin L (25Kg),75,3975
-2023-02-11,304967,Sree Meerambika Agencies,10067571,South,Hospet,MycoShield,MycoShield 10 (5KG x 5),100,70000
-2023-05-02,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),500,24000
-2023-07-06,304973,S M Enterprises,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),200,37000
-2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-10-08,306121,New Hema Enterprises,10016241,South,Hyderabad ,Previte,Previte Special CF-1 (25 Kg),250,167500
-2023-11-03,309419,Master Overseas,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,9600
-2022-09-07,306080,Lotus Farm Cure,10015938,South,Coimbatore,Kembio,KemBio Advance (2 x 5Kg),100,70000
-2023-07-01,305098,Neoline Pharma,10015568,West,Pune,NDZ Forte,NDZ Forte (5 x 5Kg),275,67375
-2022-11-04,305998,Titu Poultry Feed Supplement Store,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),350,30555
-2023-10-01,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),400,280000
-2022-11-07,304968,Shree Prabhuswami Distributor,10015744,West,Jabalpur,Kem Raksha 49 ,Kem Raksha 49 (200gm x 20),20,3120
-2023-06-03,309409,Simran Feeds Pvt Ltd,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),30,14400
-2023-11-09,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),60,25680
-2023-09-08,309401,Poshak Farms,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),100,48000
-2023-05-08,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),40,17000
-2023-10-10,304965,Vinayak Enterprises,10063580,North,Karnal,Previte,Previte Special (5 x 5Kg),450,180000
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10066388,West,Sangli,Premin,Premin L (25Kg),450,23850
-2022-09-06,305017,Sri Athanur Amman Agro Vet,10011706,South,Rashipuram,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),175,50750
-2023-02-02,304980,Shama Enterprises,10014991,North,Barwala,Premin,Premin L (25Kg),500,24000
-2022-08-08,306206,CPF (India) Private Limited,10016091,South,Coimbatore,Bromo Grane,Bromograne (12 x 1Kg),24,29688
-2023-10-04,305013,Vijendra Medical Hall,10062475,North,Jind,Previte,PREVITE-IND (5X5 KG),125,59375
-2023-05-02,304978,Ludhiana Feed Mills Pvt Ltd,10017303,North,Ludhiana,Eucamint ,Eucamint (500ml x 12),12,9000
-2023-11-03,305091,RA Health Care,10016366,North,Lucknow,Stedigro Advance,Stedigro Advance (25  x 1Kg),400,56000
-2022-05-12,304996,Shree Om Sai Venterinary Sales,10016091,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),36,48600
-2023-11-01,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2023-11-09,304996,Shree Om Sai Venterinary Sales,10061262,West,Sangli,Eucamint ,EUCAMINT (500ML X 12),96,68400
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,24000
-2022-12-10,306007,ABP Enterprises,10007549,East,24 Pargana,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),80,19200
-2023-06-06,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),50,24000
-2022-12-10,305013,Vijendra Medical Hall,10007224,North,Jind,Poszyme,Poszyme 5000 (25 Kg) (Granules),250,22500
-2023-10-05,309405,Kumaran Vet Agencies,10066521,South,Rashipuram,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),20,12100
-2023-05-08,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),260,110500
-2022-04-08,305058,Venkateshwara Marketing,10011436,South,Karimnagar,Previte Chick Pro,Previte Chick Pro (1L x 10),220,96800
-2022-05-04,306002,Japp Poultry,10014991,North,Jind,Premin,Premin L (25Kg),200,9200
-2023-10-05,309405,Kumaran Vet Agencies,10062715,South,Rashipuram,Enzimix,ENZIMIX (25 KG),300,51000
-2023-04-03,304986,Biotech Marketing,10016366,West,Anand,Stedigro Advance,Stedigro Advance (25  x 1Kg),25,3500
-2023-05-10,305098,Neoline Pharma,10066602,West,Pune,Lipibond,LIPIBOND (5 X 5KG),25,4625
-2023-09-02,304966,Swastik Pharma Agency,10014991,North,Karnal,Premin,Premin L (25Kg),500,25000
-2023-09-04,306121,New Hema Enterprises,10063580,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),175,91875
-2023-10-01,304972,Shri Sai Distributor,10007212,West,Raipur,Stedigro,Stedigro (10 x 1 KG),20,4260
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10063877,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),12,16440
-2023-11-03,304967,Sree Meerambika Agencies,10016366,South,Hospet,Stedigro Advance,Stedigro Advance (25  x 1Kg),325,45500
-2022-11-06,306101,Shree Naveen Poultry Feeds,10014976,North,Ajmer,Xerotox,Xerotox Premium (5 x 5Kg),500,45000
-2023-08-06,305998,Titu Poultry Feed Supplement Store,10062489,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),200,17460
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),50,21250
-2023-05-02,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),400,19200
-2022-01-11,304037,Poshak Medicines,10014976,West,Anand,Xerotox,Xerotox Premium (5 x 5Kg),400,38000
-2023-03-01,304982,Jaya Agency,10010115,South,Bangalore,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),20,2540
-2022-11-05,304974,Soozwin & Co,10014976,East,Kolkata,Xerotox,Xerotox Premium (5 x 5Kg),250,23750
-2022-11-04,306033,Shri Ganesh Poultries,10014153,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),200,160000
-2023-01-06,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),60,25500
-2023-01-08,306036,Arindhas,10060917,South,KRISHNA A,Kem Raksha Plus,KEM RAKSHA PLUS (2 X 5 L),200,55000
-2022-04-08,304982,Jaya Agency,10014976,South,Bangalore,Xerotox,Xerotox Premium (5 x 5Kg),500,45000
-2022-05-07,306044,C S R M Enterprises,10015568,South,Tanuku,NDZ Forte,NDZ Forte (5 x 5Kg),200,50000
-2022-09-04,304966,Swastik Pharma Agency,10014153,North,Karnal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),200,140000
-2023-05-09,306121,New Hema Enterprises,10067590,South,Hyderabad ,Previte,Previte C4Y - KGF (5 x 5KG),1000,450000
-2022-06-08,305029,Mittal Enterprises,10008134,North,Barwala,Previte,Previte++1 (5 x 5 Kg),-50,-23500
-2022-10-12,306121,New Hema Enterprises,10008978,South,Hyderabad ,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,72250
-2023-11-05,305013,Vijendra Medical Hall,10063077,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),900,630000
-2022-10-10,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),275,13200
-2022-06-09,304967,Sree Meerambika Agencies,10015938,South,Hospet,Kembio,KemBio Advance (2 x 5Kg),120,84000
-2022-07-11,305003,Shree Brahamani Agency,10014991,West,Anand,Premin,Premin L (25Kg),75,3600
-2023-09-03,306080,Lotus Farm Cure,10010071,South,Coimbatore,Kem Vit C ,Kem Vit C (25Kg),300,195000
-2022-12-10,306007,ABP Enterprises,10007549,East,24 Pargana,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),420,100800
-2023-07-02,3060071,ABP Enterprises,10009278,East,Patna,Enzimix,Enzimix+ GT 250 (25K),50,9250
-2022-12-12,305086,Excel Enterprises,10008978,South,Vijaywada,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),350,29050
-2022-05-07,306044,C S R M Enterprises,10007860,South,Tanuku,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-04-06,305013,Vijendra Medical Hall,10015705,North,Jind,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),40,24200
-2022-07-12,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),650,48750
-2023-05-03,306125,Asra Poultry Feed,10016366,West,Wakaner,Stedigro Advance,Stedigro Advance (25  x 1Kg),275,42625
-2022-04-07,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),30,8646
-2023-08-11,310793,Synergy Nutri Corp,10063693,West,Indore,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),90,10800
-2023-07-01,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,65625
-2023-01-08,309401,Poshak Farms,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),-30,-14400
-2023-05-11,304996,Shree Om Sai Venterinary Sales,10065029,West,Sangli,Kembio,KemBio advance WS (500gx10),90,38250
-2022-04-06,306023,Stemsy Nutrition,10010522,North,Ludhiana,Bromo Grane,Bromo Grane (25x1Kg),-50,-67500
-2023-08-06,305002,Yojana Poultry Pvt Ltd,10066521,West,Pune,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),50,32500
-2022-07-04,306096,Shree Keshav Agencies,10008978,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
-2022-09-07,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),275,67375
-2022-03-05,305024,Nmn Ventures,10015568,West,Raipur,NDZ Forte,NDZ Forte (5 x 5Kg),400,104000
-2022-11-12,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30101
-2022-10-10,306124,Jalaram Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),425,20400
-2022-12-07,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),350,245000
-2023-09-05,306076,Shri Balaji Medical Agency,10060928,North,Ajmer,Bromo Grane,BROMO GRANE (200GM X10),-32,-8960
-2022-04-08,306034,Synergy Agro Industries,10007224,West,Indore,Poszyme,Poszyme 5000 (25 Kg) (Granules),75,6750
-2023-05-06,310839,Godrej Tyson Foods Ltd,10060917,West,Pune,Kem Raksha Plus,KEM RAKSHA PLUS (2 X 5 L),30,8646
-2022-12-05,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2023-05-09,306121,New Hema Enterprises,10063077,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),50,35000
-2022-11-09,305998,Titu Poultry Feed Supplement Store,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,43650
-2023-04-05,306036,Arindhas,10066498,South,KRISHNA A,Kembind Y,Kembind Y (500gm x 12),102,156427
-2023-05-04,309419,Master Overseas,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),10,4800
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10064218,West,Sangli,Kembio,KemBio Advance (2 x 5Kg),10,7000
-2022-06-09,306072,Jeeya Medicose,10011436,West,Jabalpur,Previte Chick Pro,Previte Chick Pro (1L x 10),30,14400
-2023-11-03,309419,Master Overseas,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,9600
-2022-10-08,305021,Earthvet Agencies,10014153,West,Indore,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,80000
-2023-06-04,306096,Shree Keshav Agencies,10066521,North,Ajmer,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),20,12100
-2022-05-12,304996,Shree Om Sai Venterinary Sales,10016091,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),12,16200
-2022-05-12,304978,Ludhiana Feed Mills Pvt Ltd,10008978,North,Ludhiana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2023-11-11,304980,Shama Enterprises,10062489,North,Barwala,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),2000,160000
-2023-10-06,305087,Phoenix Poultry,10063688,West,Jabalpur,Kembio,KEM BIO + (1KGX10),100,40000
-2023-10-08,310726,Natraja Nutrifeed Pvt Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),100,18000
-2022-11-08,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),225,54000
-2022-04-08,304982,Jaya Agency,10014976,South,Bangalore,Xerotox,Xerotox Premium (5 x 5Kg),400,36000
-2022-09-07,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),100,13000
-2023-11-01,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2023-06-04,304996,Shree Om Sai Venterinary Sales,10063877,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),60,82200
-2022-12-10,306007,ABP Enterprises,10015938,East,24 Pargana,Kembio,KemBio Advance (2 x 5Kg),250,175000
-2023-11-03,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),900,67500
-2022-08-12,304967,Sree Meerambika Agencies,10017303,South,Hospet,Eucamint ,Eucamint (500ml x 12),24,18000
-2023-03-07,305024,Nmn Ventures,10062518,West,Raipur,Enzimix,ENZIMIX+ GT 250 (25K),450,83250
-2023-11-05,309436,Kissan Medical Agencies,10064096,North,Ajmer,Kem Raksha 49 ,KEM RAKSHA 49 (200GM X 20),20,3200
-2022-12-06,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30101
-2023-02-02,304980,Shama Enterprises,10014991,North,Barwala,Premin,Premin L (25Kg),500,24000
-2022-11-10,304987,Lotus Farms,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30110
-2022-05-04,306002,Japp Poultry,10012600,North,Jind,Premin,Premin-O-Se (15 x 1Kg),15,39000
-2023-05-10,305086,Excel Enterprises,10066080,South,Vijaywada,Poszyme,POSZYME 5000 (25 KG) (GRANULES),100,9000
-2023-10-11,306121,New Hema Enterprises,10061254,South,Hyderabad ,Previte,PREVITE-C4Y (5 X 5 KG),1000,550000
-2023-01-02,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2022-07-06,304973,S M Enterprises,10011585,East,Patna,Previte,Previte Special (5 x 5Kg),125,93750
-2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,24000
-2022-11-04,305998,Titu Poultry Feed Supplement Store,10014153,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),125,97000
-2023-01-06,304965,Vinayak Enterprises,10063556,North,Karnal,Previte Chick Pro,PREVITE CHICK PRO (5L X 2),30,12000
-2023-04-01,304996,Shree Om Sai Venterinary Sales,10016091,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),60,81000
-2022-08-11,305058,Venkateshwara Marketing,10011585,South,Karimnagar,Previte,Previte Special (5 x 5Kg),300,204000
-2022-05-12,304978,Ludhiana Feed Mills Pvt Ltd,10008978,North,Ludhiana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,12450
-2022-08-10,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2022-09-06,306034,Synergy Agro Industries,10009278,West,Indore,Enzimix,Enzimix+ GT 250 (25K),200,35400
-2022-12-09,305029,Mittal Enterprises,10008978,North,Barwala,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,44000
-2023-12-09,306127,Krishna Poultry & Cattle Feed,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),30,15000
-2023-02-02,304980,Shama Enterprises,10014991,North,Barwala,Premin,Premin L (25Kg),500,24000
-2022-02-10,304982,Jaya Agency,10015568,South,Bangalore,NDZ Forte,NDZ Forte (5 x 5Kg),475,118750
-2023-01-06,304996,Shree Om Sai Venterinary Sales,10063877,West,Sangli,Bromo Grane,Bromograne (12 x 1Kg),120,164400
-2022-10-08,306121,New Hema Enterprises,10016241,South,Hyderabad ,Previte,Previte Special CF-1 (25 Kg),250,167500
-2022-07-04,306096,Shree Keshav Agencies,10008978,North,Ajmer,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,10000
-2022-08-09,304996,Shree Om Sai Venterinary Sales,10009988,West,Sangli,Previte ADBEC,Previte ADBEC (10 x 1 Lit),50,33000
-2023-08-02,306127,Krishna Poultry & Cattle Feed,10014150,West,Anand,Bromo Grane,Bromo Grane (200gm x10),50,14500
-2022-10-10,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2022-03-09,304978,Ludhiana Feed Mills Pvt Ltd,10014991,North,Ludhiana,Premin,Premin L (25Kg),225,10350
-2022-09-07,305087,Phoenix Poultry,10008978,West,Jabalpur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,13500
-2023-01-08,306023,Stemsy Nutrition,10063580,North,Ludhiana,Previte,Previte Special (5 x 5Kg),-475,-270750
-2023-11-11,304980,Shama Enterprises,10063982,North,Barwala,Kembio,Kembio Advance WS (100 gm x 20),100,9000
-2023-05-03,306125,Asra Poultry Feed,10016366,West,Wakaner,Stedigro Advance,Stedigro Advance (25  x 1Kg),225,34875
-2023-12-06,304966,Swastik Pharma Agency,10064411,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),200,51000
-2022-08-12,306044,C S R M Enterprises,10008978,South,Tanuku,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,78000
-2023-09-11,304986,Biotech Marketing,10066602,West,Anand,Lipibond,LIPIBOND (5 X 5KG),275,45375
-2023-03-01,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),350,126000
-2023-06-07,309405,Kumaran Vet Agencies,10063077,South,Rashipuram,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),150,120000
-2022-10-08,306121,New Hema Enterprises,10011436,South,Hyderabad ,Previte Chick Pro,Previte Chick Pro (1L x 10),230,94300
-2023-02-02,306070,Sandeep Poultry Medicine Shop,10010115,West,Jabalpur,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),150,19500
-2023-04-09,305098,Neoline Pharma,10067126,West,Pune,Stedigro Advance,Stedigro Advance (25 Kg),100,14000
-2023-01-02,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),800,66400
-2023-11-03,305091,RA Health Care,10016366,North,Lucknow,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
-2022-12-07,306044,C S R M Enterprises,10011585,South,Tanuku,Previte,Previte Special (5 x 5Kg),350,227500
-2023-03-06,305046,Fatema Poultry Farm,10066388,West,Wakaner,Premin,Premin L (25Kg),50,2800
-2023-11-03,309419,Master Overseas,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),10,4800
-2022-08-12,304987,Lotus Farms,10014430,South,Bangalore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),80,880000
-2023-09-03,306077,Sivashakti Agrovet Pvt. Ltd.,10016366,East,Bhubeneswar,Stedigro Advance,Stedigro Advance (25  x 1Kg),75,10500
-2023-04-01,304996,Shree Om Sai Venterinary Sales,10010114,West,Sangli,Kem-O-Cid pHB,Kem-O-Cid pHB (12 x 1L),24,3288
-2022-02-06,306101,Shree Naveen Poultry Feeds,10007212,North,Ajmer,Stedigro,Stedigro (10 x 1 KG),300,63000
-2022-07-12,305076,Skylark Hatcheries Ltd.,10011436,North,Jind,Previte Chick Pro,Previte Chick Pro (1L x 10),250,112500
-2023-12-01,305014,Shivaram Industries,10014430,South,Bangalore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),10,117500
-2023-08-08,304974,Soozwin & Co,10063693,East,Kolkata,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),30,3600
-2023-04-05,306121,New Hema Enterprises,10062842,South,Hyderabad ,Previte Alpha-D3 Conc.,PREVITE ALPHA-D3 (5KG),20,225000
-2022-10-08,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),275,13200
-2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2022-08-09,304996,Shree Om Sai Venterinary Sales,10014991,West,Sangli,Premin,Premin L (25Kg),500,24000
-2022-05-12,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,83000
-2022-09-07,306080,Lotus Farm Cure,10011436,South,Coimbatore,Previte Chick Pro,Previte Chick Pro (1L x 10),100,45500
-2022-03-09,305090,Sri Lakshmi Traders,10014153,South,Namakkal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
-2023-02-11,306077,Sivashakti Agrovet Pvt. Ltd.,10064411,East,Bhubeneswar,NDZ Forte,NDZ Forte (5 x 5Kg),-35,-9100
-2022-02-08,304967,Sree Meerambika Agencies,10011522,South,Hospet,Previte Chick Pro,Previte Chick Pro (5L x 2),100,43000
-2022-10-10,306189,Godrej Tyson Foods Ltd.,10007549,West,Pune,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5764
-2023-08-06,304981,Ravindra Medicose,10063382,North,Karnal,Premin,PREMIN-O-SE (15 X 1KG),30,84000
-2022-05-11,306007,ABP Enterprises,10014153,East,24 Pargana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,70000
-2022-10-12,305058,Venkateshwara Marketing,10008978,South,Karimnagar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,74800
-2022-01-10,304965,Vinayak Enterprises,10011706,North,Karnal,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),300,87000
-2023-10-05,309405,Kumaran Vet Agencies,10063542,South,Rashipuram,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),20,9600
-2022-08-09,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),175,122500
-2023-08-03,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),3,3375
-2022-04-07,305017,Sri Athanur Amman Agro Vet,10015568,South,Rashipuram,NDZ Forte,NDZ Forte (5 x 5Kg),500,125000
-2023-08-03,304996,Shree Om Sai Venterinary Sales,10011585,West,Sangli,Previte,Previte Special (5 x 5Kg),225,118125
-2023-03-09,306080,Lotus Farm Cure,10066287,South,Coimbatore,Copper Sulphate P,COPPER SULPHATE A (5 X 5 KG),-100,-30000
-2022-11-06,306101,Shree Naveen Poultry Feeds,10014976,North,Ajmer,Xerotox,Xerotox Premium (5 x 5Kg),150,13500
-2022-08-10,304965,Vinayak Enterprises,10007213,North,Karnal,Xerotox,Xerotox (25 Kg),500,20000
-2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
-2022-05-12,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),850,70550
-2022-10-09,305087,Phoenix Poultry,10008978,West,Jabalpur,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,90000
-2022-04-08,306121,New Hema Enterprises,10014976,South,Hyderabad ,Xerotox,Xerotox Premium (5 x 5Kg),200,18000
-2022-07-12,304986,Biotech Marketing,10014153,West,Anand,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),150,112500
-2022-03-07,305047,S M Bios,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),250,65000
-2023-09-02,305019,Poulvet Enterprises,10009278,East,Bhubeneswar,Enzimix,Enzimix+ GT 250 (25K),75,12000
-2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
-2023-11-03,309419,Master Overseas,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),10,4800
-2022-06-06,306007,ABP Enterprises,10014150,East,24 Pargana,Bromo Grane,Bromo Grane (200gm x10),140,38500
-2022-12-06,304987,Lotus Farms,10014430,South,Bangalore,Previte Alpha-D3 Conc.,Previte Alpha-D3 (5Kg),50,550000
-2022-01-09,306034,Synergy Agro Industries,10015904,West,Indore,Previte,Previte Cust F-2 (5 x 5kg),300,180000
-2023-09-08,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),100,18000
-2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10015568,North,Ludhiana,NDZ Forte,NDZ Forte (5 x 5Kg),50,12500
-2022-11-06,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),250,60000
+gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+female,group D,master's degree,standard,none,62,70,75
+female,group C,bachelor's degree,free/reduced,completed,66,83,83
+female,group D,some college,free/reduced,none,79,89,86
+male,group C,master's degree,free/reduced,none,61,67,66
+male,group E,high school,standard,none,73,64,57
+male,group B,high school,free/reduced,none,30,24,15
+female,group C,bachelor's degree,standard,completed,96,100,100
+female,group C,associate's degree,standard,completed,57,77,80
+male,group D,high school,standard,completed,68,64,66
+female,group C,some high school,free/reduced,none,48,58,52
+male,group B,some high school,standard,none,67,64,61
+female,group C,some college,free/reduced,none,59,62,64
+male,group E,some high school,standard,completed,74,64,60
+female,group C,some high school,standard,none,65,69,76
+female,group B,some college,standard,none,62,67,67
+male,group C,associate's degree,standard,none,47,37,35
+male,group D,associate's degree,standard,none,80,63,63
+male,group C,high school,standard,none,68,60,53
+female,group D,some college,standard,completed,79,84,91
+male,group D,high school,standard,none,89,87,79
+male,group A,some college,standard,none,69,67,69
+female,group E,some college,free/reduced,none,53,58,57
+female,group C,some college,standard,completed,64,82,77
+male,group C,high school,standard,completed,82,84,82
+male,group B,high school,free/reduced,none,36,29,27
+female,group B,master's degree,standard,none,90,95,93
+female,group D,master's degree,standard,none,64,63,66
+female,group B,bachelor's degree,standard,none,52,65,69
+female,group D,some high school,free/reduced,none,67,84,84
+male,group C,associate's degree,standard,completed,51,60,58
+male,group D,some college,standard,none,79,73,67
+male,group A,high school,standard,none,63,63,62
+female,group D,associate's degree,free/reduced,none,52,59,56
+male,group A,associate's degree,free/reduced,completed,40,55,53
+male,group D,some college,standard,none,40,42,38
+female,group B,some college,standard,none,63,65,61
+male,group C,associate's degree,standard,none,46,43,42
+female,group C,some high school,free/reduced,completed,65,76,75
+female,group B,some high school,standard,none,62,64,66
+male,group B,associate's degree,standard,none,90,78,81
+male,group A,associate's degree,free/reduced,none,47,57,44
+male,group C,some college,standard,none,59,41,42
+female,group B,master's degree,free/reduced,completed,77,97,94
+female,group C,associate's degree,standard,none,52,55,57
+male,group E,some college,standard,completed,99,87,81
+female,group B,some high school,standard,none,70,64,72
+male,group C,associate's degree,free/reduced,none,64,66,59
+male,group A,bachelor's degree,standard,completed,80,78,81
+male,group D,high school,free/reduced,none,42,39,34
+male,group E,associate's degree,standard,completed,97,82,88
+male,group A,some college,free/reduced,completed,50,47,54
+female,group B,some high school,standard,completed,65,82,78
+female,group C,master's degree,free/reduced,none,52,65,61
+female,group E,associate's degree,standard,none,59,62,69
+male,group B,some high school,standard,none,74,63,57
+female,group C,some high school,free/reduced,none,43,53,53
+female,group B,high school,free/reduced,completed,67,78,79
+male,group E,bachelor's degree,standard,completed,100,100,100
+male,group D,high school,standard,none,72,66,66
+female,group B,associate's degree,standard,none,71,83,78
+male,group A,some high school,free/reduced,none,55,46,43
+female,group C,some college,standard,none,84,87,91
+female,group E,some college,standard,completed,63,72,70
+female,group C,bachelor's degree,standard,none,63,75,81
+female,group C,some college,free/reduced,completed,42,66,69
+male,group E,associate's degree,free/reduced,completed,78,74,72
+male,group E,some college,standard,none,69,60,54
+female,group B,associate's degree,standard,none,80,86,83
+male,group B,high school,standard,none,79,60,65
+male,group C,associate's degree,standard,completed,87,100,95
+female,group A,associate's degree,free/reduced,none,65,85,76
+female,group D,some high school,standard,none,51,63,61
+male,group D,master's degree,standard,none,85,84,89
+male,group A,some high school,standard,completed,47,49,49
+male,group C,master's degree,free/reduced,none,54,59,50
+female,group B,high school,free/reduced,none,38,60,50
+male,group C,some high school,free/reduced,completed,59,69,65
+male,group D,high school,free/reduced,none,60,57,51
+male,group B,high school,free/reduced,none,49,45,45
+female,group C,associate's degree,standard,completed,52,59,62
+female,group C,bachelor's degree,free/reduced,none,44,63,62
+female,group E,associate's degree,free/reduced,none,70,84,81
+male,group C,associate's degree,standard,none,84,80,80
+male,group C,associate's degree,standard,none,76,70,68
+male,group C,some college,free/reduced,none,35,28,27
+female,group C,associate's degree,standard,completed,96,96,99
+female,group D,some college,standard,none,80,90,89
+male,group B,associate's degree,standard,none,81,73,72
+male,group D,high school,standard,none,57,50,54
+male,group E,high school,standard,none,94,73,71
+male,group B,high school,standard,none,82,82,80
+male,group D,high school,standard,none,70,70,70
+female,group B,associate's degree,standard,completed,94,87,92
+male,group A,bachelor's degree,standard,completed,75,58,62
+female,group C,some college,standard,none,52,58,58
+female,group A,high school,free/reduced,completed,77,88,85
+male,group D,some college,free/reduced,none,70,63,58
+male,group A,some high school,free/reduced,none,65,59,53
+male,group B,some college,free/reduced,none,40,43,39
+female,group C,some college,standard,completed,70,89,88
+male,group D,associate's degree,free/reduced,completed,79,82,80
+female,group C,some college,standard,completed,67,81,79
+male,group C,some college,free/reduced,none,68,68,61
+female,group D,master's degree,free/reduced,completed,47,58,67
+female,group A,some college,standard,completed,72,79,82
+female,group E,high school,free/reduced,completed,57,75,73
+female,group C,bachelor's degree,standard,none,83,93,95
+male,group A,some college,standard,completed,61,51,52
+male,group C,associate's degree,standard,completed,98,87,90
+female,group D,master's degree,free/reduced,completed,61,71,78
+female,group C,bachelor's degree,standard,completed,92,100,99
+female,group C,associate's degree,standard,completed,68,67,73
+female,group E,some high school,standard,none,77,79,80
+male,group C,some college,standard,none,66,59,52
+male,group B,high school,standard,none,47,46,42
+male,group C,some college,free/reduced,none,65,58,49
+male,group A,some high school,free/reduced,none,68,72,64
+female,group C,some college,standard,completed,63,78,80
+female,group D,high school,free/reduced,none,73,92,84
+female,group C,high school,free/reduced,none,42,62,60
+female,group E,master's degree,standard,none,62,68,68
+female,group D,bachelor's degree,standard,completed,68,75,81
+female,group C,associate's degree,standard,completed,67,84,81
+male,group D,some college,free/reduced,none,49,57,46
+female,group C,some college,free/reduced,none,35,44,43
+male,group A,high school,standard,none,68,70,66
+female,group B,high school,standard,completed,69,76,74
+male,group C,high school,standard,none,70,74,71
+female,group E,some high school,standard,completed,80,85,85
+female,group C,some college,standard,completed,75,81,84
+female,group D,some college,standard,none,63,64,67
+male,group B,bachelor's degree,standard,none,66,60,57
+female,group B,some high school,free/reduced,completed,74,90,88
+female,group C,some high school,standard,completed,44,51,55
+female,group B,bachelor's degree,standard,none,72,72,74
+female,group D,master's degree,standard,completed,77,82,91
+male,group D,high school,standard,none,46,34,36
+male,group C,high school,standard,completed,72,67,64
+male,group B,associate's degree,standard,completed,82,84,78
+male,group E,associate's degree,standard,completed,62,61,58
+male,group D,associate's degree,standard,none,80,68,72
+female,group C,high school,standard,none,54,59,62
+female,group D,some college,standard,none,79,86,81
+female,group B,high school,standard,none,87,95,86
+female,group C,some high school,standard,completed,65,74,77
+female,group C,associate's degree,free/reduced,completed,82,93,93
+female,group B,associate's degree,standard,none,40,48,50
+female,group D,bachelor's degree,free/reduced,completed,93,100,100
+female,group C,bachelor's degree,standard,none,65,72,74
+male,group D,some high school,standard,completed,77,68,69
+female,group C,some college,free/reduced,none,46,64,66
+male,group B,some college,standard,completed,88,85,76
+female,group E,some high school,free/reduced,none,32,34,38
+female,group C,associate's degree,standard,none,39,64,57
+male,group D,some high school,standard,none,86,73,70
+male,group C,some high school,free/reduced,completed,53,37,40
+male,group A,some college,free/reduced,completed,81,78,81
+male,group B,some college,free/reduced,none,41,39,34
+male,group C,some college,standard,none,61,61,62
+male,group D,some college,standard,none,88,73,78
+female,group A,some high school,standard,completed,59,85,80
+female,group D,some high school,standard,none,81,97,96
+male,group C,bachelor's degree,standard,none,58,55,48
+female,group C,some college,free/reduced,completed,64,85,85
+female,group E,master's degree,standard,none,81,92,91
+male,group C,high school,standard,none,70,70,65
+female,group C,bachelor's degree,free/reduced,none,62,78,79
+male,group D,some college,standard,completed,77,62,62
+female,group D,high school,standard,none,62,64,64
+female,group E,some college,standard,none,87,85,93
+female,group C,some college,free/reduced,completed,67,75,70
+male,group A,bachelor's degree,free/reduced,none,62,72,65
+female,group D,some high school,standard,none,76,72,71
+female,group C,associate's degree,standard,none,63,67,70
+female,group B,some college,standard,completed,88,95,92
+male,group D,associate's degree,standard,none,72,79,74
+female,group D,master's degree,standard,none,55,64,70
+male,group C,some high school,free/reduced,none,61,57,56
+male,group D,bachelor's degree,free/reduced,none,50,42,48
+male,group E,some high school,standard,completed,87,84,76
+male,group B,some college,standard,none,54,52,51
+female,group C,some college,free/reduced,none,22,39,33
+male,group D,high school,free/reduced,none,66,74,69
+male,group C,bachelor's degree,standard,completed,83,82,84
+female,group D,high school,standard,completed,56,68,74
+female,group B,associate's degree,free/reduced,none,54,65,65
+female,group D,master's degree,standard,none,74,79,82
+male,group E,some college,free/reduced,completed,87,74,70
+male,group E,high school,free/reduced,completed,86,81,75
+male,group B,some college,standard,none,66,65,60
+male,group C,associate's degree,free/reduced,completed,65,67,65
+female,group C,associate's degree,standard,none,58,73,68
+female,group C,associate's degree,standard,completed,75,82,90
+female,group B,associate's degree,free/reduced,none,52,76,70
+female,group C,some college,standard,none,54,64,65
+female,group E,associate's degree,standard,completed,82,85,86
+female,group C,some high school,standard,none,63,73,68
+female,group A,some high school,free/reduced,none,59,73,69
+male,group E,bachelor's degree,free/reduced,completed,70,68,72
+female,group C,high school,free/reduced,completed,59,71,65
+male,group D,bachelor's degree,free/reduced,completed,74,71,80
+male,group A,high school,free/reduced,completed,72,67,65
+male,group A,associate's degree,standard,completed,97,92,86
+female,group C,some high school,standard,none,47,54,53
+male,group D,master's degree,standard,none,95,81,84
+female,group C,some high school,standard,none,49,63,56
+male,group E,associate's degree,free/reduced,none,64,56,52
+female,group B,some high school,free/reduced,none,24,38,27
+male,group E,associate's degree,free/reduced,completed,77,69,68
+male,group B,bachelor's degree,free/reduced,none,55,59,54
+female,group D,some college,standard,none,74,89,84
+male,group D,high school,free/reduced,none,69,70,67
+female,group B,master's degree,standard,none,77,90,84
+male,group D,high school,standard,none,76,73,68
+male,group D,bachelor's degree,free/reduced,completed,61,70,76
+male,group C,some college,standard,completed,93,84,90
+male,group B,high school,standard,none,62,55,54
+male,group A,bachelor's degree,standard,none,64,60,58
+female,group D,some high school,standard,completed,66,78,78
+male,group C,high school,standard,completed,86,81,80
+male,group C,master's degree,free/reduced,completed,46,42,46
+female,group B,associate's degree,free/reduced,completed,76,94,87
+male,group A,high school,standard,none,59,52,46
+male,group B,high school,free/reduced,none,63,48,47
+female,group A,some high school,free/reduced,none,47,59,50
+male,group C,bachelor's degree,free/reduced,none,61,66,61
+male,group E,associate's degree,standard,none,72,64,63
+male,group A,some high school,free/reduced,none,39,39,34
+male,group E,some college,standard,none,86,76,74
+female,group D,associate's degree,free/reduced,none,47,53,58
+male,group B,associate's degree,standard,completed,81,82,82
+female,group B,high school,standard,none,58,62,59
+female,group C,some college,standard,none,59,71,70
+female,group D,bachelor's degree,standard,none,79,89,89
+female,group C,some high school,free/reduced,none,65,86,80
+female,group B,high school,standard,none,65,81,73
+female,group E,high school,standard,none,50,50,47
+female,group A,some high school,free/reduced,none,44,64,58
+female,group E,bachelor's degree,standard,completed,71,70,70
+female,group C,high school,standard,none,60,68,72
+male,group D,some high school,standard,none,86,80,75
+female,group C,some college,standard,none,53,62,56
+female,group D,bachelor's degree,standard,none,89,100,100
+female,group A,associate's degree,standard,completed,65,70,74
+male,group E,some high school,free/reduced,completed,78,83,80
+female,group D,bachelor's degree,free/reduced,none,63,73,78
+female,group C,high school,standard,none,75,88,85
+female,group B,high school,free/reduced,completed,46,54,58
+female,group C,some high school,free/reduced,completed,50,60,60
+female,group C,associate's degree,standard,completed,65,84,84
+female,group C,associate's degree,standard,none,65,76,76
+male,group E,associate's degree,free/reduced,none,90,90,82
+male,group C,associate's degree,standard,completed,57,54,56
+male,group C,high school,standard,none,52,53,49
+female,group B,high school,standard,none,65,64,62
+male,group D,some high school,standard,none,84,84,80
+female,group C,associate's degree,standard,completed,62,76,80
+male,group D,associate's degree,standard,completed,81,72,77
+male,group E,associate's degree,free/reduced,none,46,43,41
+male,group D,associate's degree,standard,none,71,66,60
+male,group C,some high school,standard,none,49,49,41
+female,group D,some college,standard,none,51,58,54
+female,group D,high school,standard,none,69,77,73
+female,group D,some high school,free/reduced,none,48,54,53
+male,group E,some high school,free/reduced,completed,73,67,59
+male,group C,some college,standard,completed,98,86,90
+female,group E,bachelor's degree,standard,completed,99,100,100
+male,group C,associate's degree,standard,none,74,73,67
+male,group E,some college,standard,none,68,60,59
+male,group D,associate's degree,free/reduced,none,53,54,48
+male,group D,associate's degree,standard,completed,87,84,85
+male,group C,high school,standard,none,71,79,71
+male,group C,some college,free/reduced,completed,67,74,70
+female,group D,some high school,standard,none,73,86,82
+male,group D,some high school,standard,completed,76,70,69
+female,group A,some high school,free/reduced,none,44,45,45
+female,group C,high school,free/reduced,none,35,53,46
+male,group C,bachelor's degree,free/reduced,completed,70,75,74
+male,group C,some high school,standard,none,75,72,62
+female,group E,high school,standard,none,74,76,73
+female,group C,some college,standard,none,58,59,66
+female,group B,some college,standard,none,79,86,92
+male,group D,associate's degree,standard,none,40,52,43
+female,group B,high school,free/reduced,none,50,67,63
+female,group E,associate's degree,standard,completed,79,88,94
+male,group B,some college,free/reduced,completed,59,65,66
+female,group B,associate's degree,standard,none,53,58,65
+female,group B,some high school,standard,none,41,55,51
+female,group B,master's degree,free/reduced,completed,58,76,78
+female,group D,some college,free/reduced,completed,59,78,76
+male,group D,some college,standard,none,81,82,84
+male,group A,some high school,standard,none,53,54,48
+male,group D,some college,standard,none,55,58,52
+male,group B,some college,standard,none,79,67,67
+male,group C,bachelor's degree,standard,none,86,83,86
+female,group B,master's degree,free/reduced,completed,52,70,62
+male,group A,some high school,free/reduced,none,79,82,73
+male,group C,bachelor's degree,standard,completed,71,74,68
+male,group B,high school,standard,none,59,58,47
+female,group B,high school,free/reduced,none,64,73,71
+female,group D,high school,standard,none,67,72,74
+female,group C,associate's degree,standard,completed,71,77,77
+male,group A,high school,free/reduced,none,48,45,41
+female,group A,some college,standard,none,69,84,82
+male,group E,some high school,standard,completed,89,84,77
+female,group A,some college,standard,none,56,58,64
+male,group B,some college,standard,completed,62,66,68
+female,group E,some high school,free/reduced,none,38,49,45
+male,group C,some college,standard,none,84,87,81
+male,group E,some college,standard,none,68,72,65
+male,group C,associate's degree,standard,completed,78,77,77
+male,group E,bachelor's degree,standard,completed,85,66,71
+female,group B,some college,free/reduced,none,61,68,66
+female,group C,some high school,standard,none,69,75,78
+female,group C,high school,free/reduced,none,41,46,43
+female,group D,some college,free/reduced,completed,52,59,65
+female,group C,some high school,free/reduced,none,55,65,62
+female,group D,some high school,standard,completed,97,100,100
+female,group A,some college,standard,completed,78,87,91
+male,group D,some college,standard,none,44,54,53
+male,group A,associate's degree,standard,none,63,61,61
+female,group C,some college,free/reduced,completed,63,73,71
+female,group E,master's degree,free/reduced,none,81,86,87
+male,group C,high school,free/reduced,none,58,61,52
+female,group C,high school,standard,none,61,72,70
+male,group B,bachelor's degree,free/reduced,completed,87,90,88
+female,group B,high school,standard,completed,77,82,89
+female,group B,associate's degree,standard,none,57,69,68
+male,group D,some college,standard,none,67,64,70
+male,group C,associate's degree,free/reduced,completed,43,45,50
+female,group B,associate's degree,free/reduced,none,53,70,70
+male,group B,associate's degree,free/reduced,none,61,58,56
+male,group C,high school,free/reduced,completed,58,51,52
+female,group B,some high school,standard,none,37,46,46
+female,group D,some high school,free/reduced,completed,40,65,64
+male,group C,some high school,standard,none,73,66,66
+male,group D,bachelor's degree,standard,none,54,49,47
+male,group B,associate's degree,free/reduced,none,44,41,38
+female,group B,associate's degree,free/reduced,completed,68,77,80
+male,group D,some college,free/reduced,none,69,66,60
+male,group B,some high school,free/reduced,none,48,52,45
+male,group C,some college,standard,none,58,49,42
+male,group D,bachelor's degree,free/reduced,none,63,66,67
+female,group C,associate's degree,free/reduced,none,60,75,74
+female,group D,bachelor's degree,standard,none,78,82,79
+male,group A,some high school,free/reduced,completed,61,62,61
+male,group D,some high school,free/reduced,none,62,49,52
+male,group C,high school,standard,none,62,67,58
+male,group A,some high school,standard,none,71,62,50
+male,group B,some high school,standard,none,72,68,67
+female,group B,bachelor's degree,free/reduced,none,75,85,82
+female,group D,some high school,standard,none,59,67,61
+female,group D,associate's degree,standard,none,77,77,73
+male,group D,associate's degree,standard,none,52,55,49
+female,group C,some college,standard,completed,71,71,80
+female,group C,bachelor's degree,standard,completed,52,61,66
+female,group D,some high school,standard,none,73,84,85
+female,group D,associate's degree,standard,completed,88,92,95
+female,group A,associate's degree,standard,completed,55,65,62
+male,group E,associate's degree,standard,none,87,74,76
+male,group D,associate's degree,standard,none,61,55,52
+female,group D,some college,free/reduced,none,77,86,86
+male,group B,some college,standard,none,58,50,45
+male,group C,associate's degree,standard,none,92,79,84
+female,group E,high school,standard,none,99,93,90
+female,group B,associate's degree,standard,none,73,83,76
+female,group B,some college,standard,completed,50,64,66
+female,group C,associate's degree,standard,completed,74,75,83
+female,group C,high school,standard,none,61,73,63
+male,group A,some high school,standard,completed,66,68,64
+male,group E,associate's degree,free/reduced,completed,100,100,93
+male,group E,some college,standard,none,83,80,73
+female,group E,some high school,free/reduced,none,72,79,77
+male,group E,some college,standard,none,53,55,48
+female,group C,associate's degree,standard,none,46,58,57
+female,group D,high school,free/reduced,completed,65,61,71
+female,group E,some college,free/reduced,completed,42,55,54
+female,group C,associate's degree,standard,completed,83,85,90
+male,group D,some high school,standard,none,60,59,54
+male,group D,some college,standard,completed,100,97,99
+female,group C,high school,free/reduced,completed,67,79,84
+female,group C,associate's degree,free/reduced,none,54,58,61
+male,group B,bachelor's degree,standard,none,59,54,51
+female,group B,high school,standard,none,48,62,60
+male,group C,high school,standard,none,90,75,69
+female,group B,associate's degree,standard,none,82,80,77
+female,group D,high school,standard,none,51,66,62
+female,group C,high school,free/reduced,none,35,61,54
+female,group D,associate's degree,free/reduced,completed,75,90,88
+female,group C,master's degree,standard,completed,81,91,87
+male,group C,associate's degree,standard,none,85,76,71
+female,group D,some high school,free/reduced,completed,69,86,81
+female,group B,bachelor's degree,free/reduced,none,77,85,87
+male,group C,associate's degree,free/reduced,none,58,55,53
+male,group B,high school,standard,completed,52,49,46
+male,group D,some high school,standard,none,62,67,61
+female,group B,some high school,standard,none,67,89,82
+female,group E,some college,standard,none,76,78,80
+male,group D,bachelor's degree,free/reduced,none,68,68,67
+female,group C,associate's degree,standard,completed,59,73,72
+female,group B,some high school,free/reduced,none,18,32,28
+male,group D,some college,standard,completed,65,77,74
+female,group C,some college,standard,none,71,81,80
+female,group E,some college,standard,none,62,73,70
+male,group D,some high school,standard,none,69,66,61
+male,group D,some college,standard,none,72,57,58
+female,group E,associate's degree,standard,none,66,65,69
+male,group C,high school,standard,none,84,77,74
+female,group E,bachelor's degree,standard,none,37,45,38
+female,group C,associate's degree,standard,none,85,84,82
+male,group C,master's degree,free/reduced,completed,62,68,75
+male,group D,some high school,free/reduced,none,56,54,52
+male,group B,some college,standard,completed,69,77,77
+female,group D,some college,standard,none,98,100,99
+male,group C,high school,standard,none,50,48,42
+female,group E,master's degree,standard,completed,94,99,100
+female,group C,associate's degree,standard,none,91,95,94
+female,group E,some college,standard,completed,66,74,73
+female,group C,some high school,standard,none,74,75,82
+male,group B,associate's degree,standard,none,65,54,57
+male,group E,bachelor's degree,standard,completed,70,64,70
+male,group B,some college,free/reduced,none,60,60,60
+female,group A,high school,standard,none,61,68,63
+male,group E,some high school,standard,none,94,88,78
+male,group C,high school,standard,none,88,89,86
+male,group A,some high school,standard,none,64,50,43
+female,group D,associate's degree,free/reduced,completed,57,74,76
+male,group C,some high school,standard,completed,78,72,69
+male,group C,master's degree,free/reduced,completed,72,66,72
+female,group C,some high school,standard,completed,76,87,85
+female,group E,some high school,free/reduced,none,74,74,72
+male,group B,high school,standard,completed,73,71,68
+female,group D,some college,free/reduced,completed,70,78,78
+female,group C,high school,standard,none,76,76,74
+male,group C,some high school,standard,none,57,61,54
+female,group E,master's degree,free/reduced,none,45,56,54
+male,group B,some college,standard,none,69,54,55
+female,group C,some college,standard,none,62,69,69
+male,group D,associate's degree,free/reduced,none,75,66,73
+female,group D,some college,standard,completed,75,77,83
+male,group C,some college,standard,none,59,60,58
+female,group C,some college,standard,completed,88,95,94
+female,group D,some high school,free/reduced,none,50,64,59
+female,group D,some college,standard,none,62,70,72
+female,group D,bachelor's degree,standard,none,59,70,73
+male,group C,some college,standard,none,91,74,76
+male,group C,some college,standard,none,63,63,60
+male,group C,master's degree,standard,none,71,67,67
+female,group B,some high school,free/reduced,completed,59,63,64
+male,group C,some high school,standard,none,64,58,51
+female,group C,master's degree,standard,completed,69,84,85
+male,group C,some high school,standard,none,62,64,55
+male,group C,associate's degree,standard,none,97,93,91
+female,group E,associate's degree,standard,completed,95,89,92
+female,group B,bachelor's degree,standard,none,75,84,80
+female,group A,some college,free/reduced,none,61,60,57
+female,group D,master's degree,standard,none,53,61,68
+female,group E,associate's degree,standard,none,68,76,67
+male,group B,master's degree,free/reduced,none,49,53,52
+female,group C,bachelor's degree,free/reduced,none,67,75,72
+female,group B,associate's degree,standard,completed,59,70,66
+male,group C,some high school,standard,completed,76,80,73
+female,group D,bachelor's degree,free/reduced,none,62,72,74
+female,group E,associate's degree,standard,none,84,95,92
+male,group C,high school,standard,none,62,55,49
+female,group C,some college,standard,none,72,72,71
+male,group A,high school,free/reduced,none,53,58,44
+male,group B,high school,standard,completed,60,44,47
+female,group D,high school,standard,completed,57,58,64
+male,group E,high school,free/reduced,completed,57,56,54
+male,group D,some high school,standard,completed,71,69,68
+female,group A,high school,standard,none,55,73,73
+female,group D,associate's degree,free/reduced,none,46,56,57
+female,group C,some college,standard,none,69,78,76
+female,group C,some college,standard,none,55,69,65
+male,group D,high school,standard,none,88,78,75
+male,group A,bachelor's degree,standard,none,77,67,68
+female,group D,high school,standard,completed,88,99,100
+female,group C,associate's degree,standard,none,54,61,58
+male,group E,high school,standard,completed,81,80,76
+female,group D,associate's degree,free/reduced,none,43,60,58
+male,group B,some college,free/reduced,completed,74,77,76
+male,group D,some high school,standard,completed,78,81,86
+male,group D,high school,free/reduced,completed,64,64,67
+female,group E,high school,free/reduced,none,41,45,40
+female,group D,associate's degree,standard,none,74,81,83
+female,group C,associate's degree,free/reduced,none,65,77,74
+female,group A,high school,standard,completed,68,80,76
+male,group D,master's degree,standard,none,80,80,72
+male,group B,associate's degree,standard,none,80,76,64
+male,group D,high school,standard,none,69,75,71
+male,group A,bachelor's degree,standard,none,91,96,92
+male,group A,some college,standard,completed,100,96,86
+female,group C,some college,standard,completed,87,89,94
+female,group E,associate's degree,standard,none,85,92,85
+female,group C,some high school,free/reduced,none,44,50,51
+male,group D,some college,free/reduced,completed,69,60,63
+male,group E,associate's degree,standard,completed,71,74,68
+female,group C,bachelor's degree,free/reduced,completed,51,72,79
+male,group A,some high school,standard,completed,62,67,69
+male,group C,associate's degree,free/reduced,none,68,65,61
+male,group D,high school,standard,none,41,52,51
+male,group D,high school,free/reduced,none,44,51,48
+male,group C,some high school,free/reduced,none,79,76,65
+female,group E,associate's degree,standard,completed,93,100,95
+male,group B,some high school,standard,completed,64,53,57
+male,group C,associate's degree,free/reduced,none,73,68,66
+male,group B,some high school,standard,none,88,84,75
+female,group C,some college,free/reduced,none,62,72,70
+male,group D,some college,free/reduced,none,62,57,62
+male,group C,high school,free/reduced,none,61,60,55
+male,group D,associate's degree,standard,none,90,87,85
+male,group D,high school,free/reduced,none,75,74,66
+female,group C,some college,free/reduced,none,77,90,91
+female,group C,some college,standard,none,82,90,94
+male,group E,high school,standard,none,80,76,65
+male,group D,high school,free/reduced,none,63,57,56
+male,group E,some high school,standard,none,82,67,61
+female,group E,some college,standard,none,61,64,62
+male,group A,high school,standard,none,57,43,47
+female,group D,high school,standard,none,45,63,59
+male,group E,high school,free/reduced,none,55,56,51
+female,group B,associate's degree,standard,none,58,63,65
+male,group B,bachelor's degree,free/reduced,none,73,56,57
+female,group E,bachelor's degree,standard,none,65,73,75
+female,group C,some high school,standard,completed,59,54,67
+female,group C,some college,standard,completed,88,93,93
+female,group D,associate's degree,standard,none,65,69,70
+male,group C,associate's degree,standard,none,69,77,69
+male,group C,high school,standard,none,70,56,51
+male,group E,associate's degree,standard,none,89,76,74
+male,group E,high school,standard,none,84,73,69
+male,group D,associate's degree,free/reduced,completed,61,71,73
+female,group B,high school,standard,none,74,72,72
+male,group B,high school,standard,none,57,48,51
+female,group C,high school,standard,completed,60,64,74
+male,group C,high school,free/reduced,none,54,72,59
+female,group A,bachelor's degree,standard,none,51,49,51
+female,group D,some high school,standard,completed,80,92,88
+female,group A,some college,free/reduced,none,49,65,55
+male,group C,bachelor's degree,standard,completed,91,81,79
+male,group B,high school,standard,none,52,48,49
+male,group C,master's degree,standard,none,67,57,59
+female,group C,bachelor's degree,free/reduced,completed,47,62,66
+male,group B,some high school,standard,completed,61,56,56
+female,group D,associate's degree,free/reduced,completed,74,88,90
+female,group E,some college,standard,none,68,70,66
+male,group C,master's degree,free/reduced,completed,79,77,75
+female,group D,some college,free/reduced,none,64,74,75
+male,group B,some college,standard,completed,91,96,91
+female,group E,bachelor's degree,free/reduced,none,61,58,62
+female,group C,bachelor's degree,free/reduced,none,43,62,61
+female,group C,high school,free/reduced,none,53,72,64
+female,group E,bachelor's degree,standard,none,64,73,70
+female,group A,high school,free/reduced,completed,53,50,60
+female,group C,bachelor's degree,standard,none,86,92,87
+female,group D,high school,standard,none,69,72,77
+female,group C,some high school,standard,none,77,91,88
+female,group D,high school,standard,none,78,81,80
+female,group C,some college,standard,none,54,48,52
+male,group A,associate's degree,standard,none,54,53,47
+female,group E,associate's degree,free/reduced,none,73,76,78
+female,group B,bachelor's degree,standard,none,67,86,83
+male,group C,associate's degree,free/reduced,none,49,51,51
+female,group C,master's degree,free/reduced,none,40,58,54
+male,group D,associate's degree,free/reduced,none,52,57,50
+female,group D,some college,standard,completed,82,97,96
+male,group D,some high school,standard,none,81,78,78
+female,group B,high school,free/reduced,completed,23,44,36
+male,group E,some high school,standard,none,92,87,78
+female,group B,some high school,standard,completed,32,51,44
+female,group E,some college,standard,completed,73,78,76
+male,group C,associate's degree,standard,none,83,72,78
+female,group B,high school,standard,none,50,53,55
+female,group D,master's degree,standard,completed,70,71,74
+male,group D,associate's degree,standard,completed,67,54,63
+female,group D,associate's degree,free/reduced,completed,42,61,58
+male,group D,some college,free/reduced,none,59,62,61
+female,group B,some college,standard,none,70,75,78
+male,group B,some college,free/reduced,none,55,55,47
+male,group D,associate's degree,standard,none,61,48,46
+female,group B,bachelor's degree,standard,completed,66,74,81
+female,group D,bachelor's degree,free/reduced,none,73,79,84
+female,group D,some high school,standard,none,80,90,82
+female,group A,some high school,free/reduced,none,38,43,43
+female,group B,associate's degree,standard,completed,52,66,73
+male,group C,high school,standard,completed,58,52,54
+female,group C,high school,standard,none,72,80,83
+female,group C,associate's degree,standard,completed,68,86,84
+female,group C,bachelor's degree,standard,completed,77,94,95
+female,group B,some high school,standard,none,82,82,80
+female,group D,associate's degree,standard,none,76,74,73
+male,group E,some high school,standard,completed,81,75,76
+male,group E,associate's degree,free/reduced,completed,46,43,44
+male,group D,some college,standard,none,88,77,77
+male,group C,associate's degree,free/reduced,completed,65,73,68
+female,group B,bachelor's degree,standard,none,97,97,96
+female,group B,some college,standard,none,82,85,87
+female,group B,bachelor's degree,standard,completed,65,81,81
+male,group C,master's degree,standard,completed,91,85,85
+female,group C,associate's degree,standard,completed,55,72,79
+female,group D,master's degree,standard,none,92,100,100
+female,group B,high school,standard,none,81,91,89
+female,group E,associate's degree,free/reduced,completed,57,68,73
+female,group C,some college,standard,none,73,80,82
+female,group D,high school,standard,none,56,52,55
+female,group D,associate's degree,standard,completed,57,78,79
+male,group D,associate's degree,free/reduced,none,66,62,64
+male,group C,high school,standard,completed,53,52,49
+male,group E,associate's degree,standard,completed,81,81,79
+male,group C,high school,standard,completed,75,69,68
+male,group A,high school,standard,completed,72,73,74
+female,group B,some high school,standard,none,73,79,79
+female,group E,some college,standard,completed,86,85,91
+female,group C,bachelor's degree,standard,none,65,79,81
+male,group D,high school,standard,none,64,54,50
+female,group B,high school,standard,none,58,68,61
+male,group D,some high school,standard,none,55,47,44
+male,group C,associate's degree,free/reduced,completed,78,81,82
+female,group D,some college,free/reduced,completed,63,80,80
+male,group D,high school,free/reduced,completed,73,68,66
+female,group C,high school,standard,none,81,84,82
+female,group E,high school,standard,none,74,81,71
+female,group C,associate's degree,standard,none,49,53,53
+male,group C,bachelor's degree,free/reduced,none,53,58,55
+male,group D,some college,free/reduced,none,77,62,64
+female,group D,some college,free/reduced,none,69,65,74
+male,group E,bachelor's degree,standard,none,82,62,62
+male,group E,some college,standard,none,76,67,67
+female,group B,high school,standard,none,42,52,51
+female,group C,associate's degree,standard,none,85,89,95
+female,group C,high school,standard,completed,58,75,77
+female,group C,high school,standard,none,59,72,68
+female,group C,high school,free/reduced,none,34,42,39
+male,group C,some college,standard,none,76,78,75
+female,group D,some high school,standard,none,68,71,75
+female,group B,some high school,free/reduced,none,72,81,79
+female,group C,some high school,free/reduced,none,48,56,51
+male,group C,bachelor's degree,standard,completed,94,90,91
+male,group D,associate's degree,standard,none,81,71,73
+female,group A,some high school,standard,completed,92,100,97
+male,group E,some college,standard,completed,81,74,71
+female,group C,some high school,free/reduced,completed,29,40,44
+female,group D,some college,free/reduced,none,58,67,62
+female,group C,some college,standard,none,73,76,78
+male,group E,some high school,standard,completed,68,51,57
+female,group C,high school,free/reduced,completed,50,66,64
+male,group B,associate's degree,standard,completed,65,65,63
+male,group C,some college,free/reduced,none,63,61,54
+female,group C,high school,standard,none,66,71,76
+female,group E,master's degree,free/reduced,none,56,72,65
+male,group E,associate's degree,standard,completed,94,85,82
+female,group C,associate's degree,standard,none,66,77,73
+female,group C,associate's degree,standard,completed,67,84,86
+male,group D,bachelor's degree,free/reduced,completed,74,79,75
+female,group C,bachelor's degree,standard,none,67,69,75
+male,group C,bachelor's degree,standard,completed,63,64,66
+male,group D,some college,standard,none,76,64,66
+male,group A,associate's degree,free/reduced,completed,79,82,82
+female,group B,some high school,free/reduced,completed,52,67,72
+female,group A,some high school,standard,none,71,83,77
+male,group B,bachelor's degree,free/reduced,none,88,75,76
+male,group D,some college,standard,none,68,59,62
+female,group D,high school,standard,completed,69,77,78
+female,group D,some college,standard,none,77,68,77
+male,group E,bachelor's degree,standard,none,68,68,64
+female,group B,some high school,standard,none,66,69,68
+female,group C,associate's degree,standard,none,59,66,67
+male,group A,associate's degree,free/reduced,none,62,61,55
+female,group C,high school,standard,none,63,69,74
+female,group E,high school,free/reduced,none,64,62,68
+male,group D,master's degree,standard,none,82,82,74
+male,group B,some college,free/reduced,completed,60,62,60
+male,group D,some college,standard,none,71,49,52
+male,group B,associate's degree,free/reduced,completed,58,57,53
+female,group E,associate's degree,standard,none,100,100,100
+female,group D,some high school,standard,none,59,58,59
+female,group C,master's degree,standard,completed,54,64,67
+female,group A,master's degree,standard,none,50,53,58
+female,group E,high school,free/reduced,completed,66,74,78
+male,group C,associate's degree,free/reduced,none,55,61,54
+female,group C,some college,standard,none,83,83,90
+male,group A,bachelor's degree,standard,none,66,64,62
+male,group D,some high school,standard,completed,62,66,68
+female,group B,high school,standard,none,62,62,63
+female,group E,associate's degree,free/reduced,completed,83,86,88
+female,group D,some college,free/reduced,none,60,66,70
+male,group C,some college,standard,none,53,44,42
+female,group D,some high school,standard,none,59,72,80
+male,group C,associate's degree,standard,none,49,51,43
+female,group C,bachelor's degree,free/reduced,none,50,60,59
+male,group E,associate's degree,free/reduced,completed,91,73,80
+male,group B,some college,standard,none,47,43,41
+male,group B,associate's degree,free/reduced,none,67,62,60
+female,group B,some high school,standard,none,57,67,72
+female,group D,some college,free/reduced,none,71,83,83
+female,group E,associate's degree,standard,completed,65,75,77
+male,group B,some college,free/reduced,none,54,54,45
+male,group C,bachelor's degree,free/reduced,none,37,56,47
+male,group C,high school,free/reduced,none,62,55,55
+male,group B,some high school,standard,completed,94,86,87
+male,group D,bachelor's degree,free/reduced,completed,39,42,38
+female,group E,some college,free/reduced,none,71,76,70
+female,group D,some college,free/reduced,none,65,81,77
+female,group E,some college,free/reduced,completed,75,88,85
+female,group C,some college,free/reduced,none,32,39,33
+male,group C,some college,standard,none,53,39,37
+male,group A,some college,standard,none,53,43,43
+male,group A,bachelor's degree,standard,completed,87,84,87
+male,group E,bachelor's degree,standard,completed,76,62,66
+female,group D,bachelor's degree,free/reduced,none,78,90,93
+male,group D,bachelor's degree,standard,none,75,73,74
+female,group C,some college,standard,none,58,67,72
+male,group B,associate's degree,standard,none,48,43,45
+male,group D,master's degree,standard,none,73,70,75
+female,group C,some college,standard,completed,69,90,88
+female,group E,high school,free/reduced,none,57,58,57
+male,group B,some high school,standard,completed,79,85,86
+female,group C,some college,standard,none,63,74,74
+female,group B,associate's degree,standard,none,47,49,50
+male,group D,some high school,standard,completed,74,71,78
+male,group E,some college,standard,none,97,87,82
+female,group B,some high school,free/reduced,none,49,58,55
+male,group C,master's degree,standard,none,79,78,77
+male,group C,some high school,free/reduced,none,69,71,65
+female,group C,associate's degree,free/reduced,none,53,61,62
+male,group C,high school,standard,completed,69,58,53
+male,group C,high school,free/reduced,none,27,34,36
+female,group D,some high school,free/reduced,completed,35,55,60
+female,group B,some high school,free/reduced,completed,63,78,79
+male,group B,bachelor's degree,free/reduced,none,48,51,46
+female,group C,high school,standard,none,72,80,75
+female,group B,high school,standard,none,66,72,70
+female,group E,bachelor's degree,standard,none,80,83,83
+male,group A,some college,standard,completed,78,72,70
+male,group C,high school,standard,none,71,66,65
+female,group D,master's degree,standard,none,54,60,63
+female,group C,associate's degree,free/reduced,none,57,78,67
+female,group D,some college,standard,none,65,70,71
+male,group C,high school,free/reduced,completed,53,51,51
+female,group D,high school,free/reduced,none,39,52,46
+female,group D,associate's degree,free/reduced,none,55,76,76
+female,group D,associate's degree,standard,none,59,70,65
+female,group B,high school,free/reduced,none,60,72,68
+female,group B,associate's degree,standard,none,49,52,54
+female,group B,high school,free/reduced,none,8,24,23
+female,group D,master's degree,free/reduced,none,40,59,54
+female,group C,bachelor's degree,free/reduced,completed,74,86,89
+male,group E,some college,standard,none,59,51,43
+female,group E,bachelor's degree,free/reduced,completed,92,100,100
+male,group C,some college,free/reduced,none,80,64,66
+male,group C,bachelor's degree,standard,completed,96,90,92
+male,group E,some college,standard,completed,85,75,68
+female,group C,bachelor's degree,standard,none,77,88,87
+female,group B,high school,free/reduced,completed,76,85,82
+male,group C,high school,free/reduced,none,66,66,59
+female,group D,bachelor's degree,standard,completed,71,76,83
+male,group B,high school,standard,none,60,68,60
+male,group D,some college,standard,none,76,71,73
+male,group D,some college,standard,completed,58,59,58
+female,group B,associate's degree,standard,completed,90,90,91
+female,group D,some college,standard,completed,74,75,79
+male,group B,some college,free/reduced,none,75,68,65
+male,group C,some college,standard,none,69,64,68
+female,group B,some high school,standard,completed,60,70,70
+female,group B,some college,free/reduced,completed,65,75,70
+female,group C,associate's degree,free/reduced,completed,68,67,69
+male,group B,high school,standard,completed,72,65,68
+male,group B,associate's degree,free/reduced,completed,82,78,74
+female,group C,some high school,standard,completed,85,92,93
+male,group E,associate's degree,standard,none,72,57,62
+male,group D,some college,standard,completed,76,83,79
+female,group E,some college,standard,none,67,76,75
+male,group A,some college,free/reduced,none,75,81,74
+male,group B,some high school,standard,completed,63,67,67
+female,group C,associate's degree,standard,none,64,64,70
+male,group D,associate's degree,standard,completed,67,72,67
+male,group A,some college,free/reduced,none,58,60,57
+female,group B,associate's degree,free/reduced,none,53,71,67
+male,group C,some high school,standard,none,73,66,63
+male,group D,master's degree,standard,none,89,84,82
+female,group C,high school,standard,none,65,69,67
+female,group C,some college,standard,completed,70,72,76
+female,group D,bachelor's degree,standard,none,65,67,62
+male,group D,some high school,standard,none,74,74,72
+female,group D,associate's degree,standard,none,71,71,74
+female,group E,bachelor's degree,standard,none,100,100,100
+male,group C,high school,standard,none,71,60,61
+male,group E,high school,standard,completed,87,91,81
+female,group D,associate's degree,free/reduced,none,26,31,38
+male,group B,associate's degree,standard,completed,91,89,92
+female,group A,associate's degree,standard,none,82,93,93
+male,group D,high school,standard,none,66,69,63
+female,group E,bachelor's degree,standard,completed,79,81,82
+male,group D,some college,standard,completed,63,55,63
+female,group D,master's degree,standard,none,87,100,100
+male,group C,bachelor's degree,standard,none,69,63,61
+female,group C,associate's degree,standard,none,53,62,53
+male,group C,some college,free/reduced,completed,50,48,53
+female,group D,associate's degree,standard,none,85,91,89

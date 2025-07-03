@@ -24,7 +24,7 @@ def read_sql_data():
             db=db
         )
         logging.info("Connection established",mydb)
-        df=pd.read_sql_query("SELECT * FROM sales.sales;", mydb)
+        df=pd.read_sql_query("SELECT * FROM college.college;", mydb)
         print(df.head())
         return df
     except Exception as e:
