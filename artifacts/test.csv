@@ -1,0 +1,201 @@
+Invoice_Date,Customer_Code,Customer_Name,Item_Code,Zone,HQ,Brand,Item_Description,QTY,AMOUNT
+2023-07-01,3060071,ABP Enterprises,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),75,5625
+2023-09-04,306121,New Hema Enterprises,10063580,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),125,65625
+2023-09-04,306121,New Hema Enterprises,10063580,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),350,183750
+2023-08-03,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),20,22500
+2022-05-11,304981,Ravindra Medicose,10015568,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),100,26000
+2023-09-03,309405,Kumaran Vet Agencies,10016366,South,Rashipuram,Stedigro Advance,Stedigro Advance (25  x 1Kg),75,10500
+2023-11-02,304996,Shree Om Sai Venterinary Sales,10014150,West,Sangli,Bromo Grane,Bromo Grane (200gm x10),10,2800
+2023-05-01,306023,Stemsy Nutrition,10014153,North,Ludhiana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
+2023-09-08,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),400,72000
+2022-05-07,306044,C S R M Enterprises,10015568,South,Tanuku,NDZ Forte,NDZ Forte (5 x 5Kg),50,12500
+2023-08-06,305024,Nmn Ventures,10063679,West,Raipur,Kem Vit C ,KEM VIT C (25KG),150,97500
+2022-07-06,304973,S M Enterprises,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,65625
+2023-12-02,306101,Shree Naveen Poultry Feeds,10008178,North,Ajmer,Enzimix,Enzimix Protease A ( 25 KG),500,400000
+2023-08-11,310807,Hp Feeds,10064411,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),450,103500
+2023-07-10,309409,Simran Feeds Pvt Ltd,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),70,33600
+2023-01-10,304973,S M Enterprises,10067572,East,Patna,MycoShield,MycoShield 10 (1 Kg x 12),12,10200
+2022-04-09,305021,Earthvet Agencies,10014153,West,Indore,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),50,40000
+2023-06-09,304974,Soozwin & Co,10063663,East,Kolkata,Previte ADBEC,Previte ADBEC (10 x 1 Lit),150,99000
+2023-09-05,306076,Shri Balaji Medical Agency,10066080,North,Ajmer,Poszyme,POSZYME 5000 (25 KG) (GRANULES),-25,-2304
+2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),50,5500
+2023-11-01,304965,Vinayak Enterprises,10014991,North,Karnal,Premin,Premin L (25Kg),425,22525
+2022-12-07,306076,Shri Balaji Medical Agency,10014150,North,Ajmer,Bromo Grane,Bromo Grane (200gm x10),190,53200
+2022-08-10,304965,Vinayak Enterprises,10011706,North,Karnal,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),300,87000
+2023-07-01,305046,Fatema Poultry Farm,10011585,West,Wakaner,Previte,Previte Special (5 x 5Kg),25,18250
+2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),350,227500
+2022-07-08,304986,Biotech Marketing,10014153,West,Anand,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),250,187500
+2022-11-06,306080,Lotus Farm Cure,10015568,South,Coimbatore,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
+2023-10-11,305046,Fatema Poultry Farm,10062394,West,Wakaner,Enzimix,ENZIMIX + (25 KG),25,4250
+2023-03-10,305022,Real Enterprise,10063077,West,Wakaner,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,20000
+2023-11-10,309401,Poshak Farms,10000676,West,Anand,Bromo Grane,BROMO GRANE (200GM X10),50,13500
+2022-03-10,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),3,3375
+2022-06-07,304986,Biotech Marketing,10015938,West,Anand,Kembio,KemBio Advance (2 x 5Kg),50,35000
+2023-11-02,305998,Titu Poultry Feed Supplement Store,10011436,North,Jind,Previte Chick Pro,Previte Chick Pro (1L x 10),150,65475
+2022-12-12,305086,Excel Enterprises,10008978,South,Vijaywada,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),150,12450
+2022-08-10,304965,Vinayak Enterprises,10015058,North,Karnal,Premin,Premin V (25Kg),175,13125
+2022-04-08,304037,Poshak Medicines,10014976,West,Anand,Xerotox,Xerotox Premium (5 x 5Kg),200,19000
+2023-11-03,305091,RA Health Care,10016366,North,Lucknow,Stedigro Advance,Stedigro Advance (25  x 1Kg),100,14000
+2023-07-02,305006,National Marketing,10014160,West,Wakaner,Previte,Previte-C4Y (5 x 5 Kg),175,112000
+2023-02-10,305013,Vijendra Medical Hall,10062475,North,Jind,Previte,PREVITE-IND (5X5 KG),750,352500
+2022-02-06,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),350,126000
+2022-10-09,304967,Sree Meerambika Agencies,10015568,South,Hospet,NDZ Forte,NDZ Forte (5 x 5Kg),225,54000
+2022-09-06,305017,Sri Athanur Amman Agro Vet,10015568,South,Rashipuram,NDZ Forte,NDZ Forte (5 x 5Kg),500,125000
+2022-08-09,304996,Shree Om Sai Venterinary Sales,10014991,West,Sangli,Premin,Premin L (25Kg),275,13200
+2023-08-11,304037,Poshak Medicines,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),250,140000
+2022-07-09,306080,Lotus Farm Cure,10015744,South,Coimbatore,Kem Raksha 49 ,Kem Raksha 49 (200gm x 20),40,6240
+2022-04-09,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),225,10800
+2023-05-10,305058,Venkateshwara Marketing,10066080,South,Karimnagar,Poszyme,POSZYME 5000 (25 KG) (GRANULES),1000,90000
+2023-08-02,306121,New Hema Enterprises,10017303,South,Hyderabad ,Eucamint ,Eucamint (500ml x 12),120,90000
+2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),300,84000
+2023-10-07,305013,Vijendra Medical Hall,10062715,North,Jind,Enzimix,ENZIMIX (25 KG),250,42500
+2023-04-02,305045,Gomatha Enterprises,10011602,South,Bangalore,Kem Vit M,Kem Vit-M ( 25 Kg),15,41250
+2023-05-09,306121,New Hema Enterprises,10063580,South,Hyderabad ,Previte,Previte Special (5 x 5Kg),250,118750
+2022-11-08,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
+2023-05-02,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),350,29050
+2022-07-04,306064,Poultech Agro Foods Pvt. Ltd.,10008978,East,Bhubeneswar,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),875,65625
+2022-11-04,306033,Shri Ganesh Poultries,10015568,North,Jind,NDZ Forte,NDZ Forte (5 x 5Kg),325,84500
+2023-09-02,306144,Beekay Pharmaceuticals,10016366,East,Bhubeneswar,Stedigro Advance,Stedigro Advance (25  x 1Kg),100,14000
+2022-07-04,306096,Shree Keshav Agencies,10007213,North,Ajmer,Xerotox,Xerotox (25 Kg),500,20000
+2022-04-08,304965,Vinayak Enterprises,10014976,North,Karnal,Xerotox,Xerotox Premium (5 x 5Kg),500,45000
+2023-02-07,306121,New Hema Enterprises,10064907,South,Hyderabad ,Xerotox,XEROTOX PREMIUM (5 X 5KG),100,8600
+2022-06-09,305090,Sri Lakshmi Traders,10011436,South,Namakkal,Previte Chick Pro,Previte Chick Pro (1L x 10),100,45500
+2022-12-05,306121,New Hema Enterprises,10007860,South,Hyderabad ,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2023-10-01,304972,Shri Sai Distributor,10014153,West,Raipur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,80000
+2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),25,16250
+2023-09-02,305003,Shree Brahamani Agency,10011732,West,Anand,Kem Sel,Kem Sel E Bio (5 x 5Kg),100,86500
+2023-11-03,305091,RA Health Care,10015568,North,Lucknow,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
+2023-08-03,306130,Shri Hiranyakeshi Feeds And Farms P,10011951,West,Sangli,Xerotox,Xerotox C (25 Kg),17,19125
+2023-12-08,304982,Jaya Agency,10064218,South,Bangalore,Kembio,KemBio Advance (2 x 5Kg),150,105000
+2022-06-06,306007,ABP Enterprises,10014150,East,24 Pargana,Bromo Grane,Bromo Grane (200gm x10),60,16500
+2023-10-01,304972,Shri Sai Distributor,10015568,West,Raipur,NDZ Forte,NDZ Forte (5 x 5Kg),100,26000
+2022-03-07,306007,ABP Enterprises,10015568,East,24 Pargana,NDZ Forte,NDZ Forte (5 x 5Kg),200,50000
+2022-11-12,305024,Nmn Ventures,10014193,West,Raipur,Previte,Previte SP NMN-1 (5kgx5),50,41250
+2023-07-02,3060071,ABP Enterprises,10015568,East,Patna,NDZ Forte,NDZ Forte (5 x 5Kg),100,26000
+2023-10-04,305013,Vijendra Medical Hall,10060917,North,Jind,Kem Raksha Plus,KEM RAKSHA PLUS (2 X 5 L),100,26500
+2022-06-09,306121,New Hema Enterprises,10015705,South,Hyderabad ,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),50,30000
+2022-06-09,304967,Sree Meerambika Agencies,10009278,South,Hospet,Enzimix,Enzimix+ GT 250 (25K),100,18500
+2023-06-03,306033,Shri Ganesh Poultries,10014153,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),300,225000
+2022-03-05,305024,Nmn Ventures,10015938,West,Raipur,Kembio,KemBio Advance (2 x 5Kg),60,42000
+2023-07-02,3060071,ABP Enterprises,10011585,East,Patna,Previte,Previte Special (5 x 5Kg),100,73000
+2022-08-09,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),325,227500
+2023-09-03,306002,Japp Poultry,10016366,North,Jind,Stedigro Advance,Stedigro Advance (25  x 1Kg),200,28000
+2022-05-06,305091,RA Health Care,10008978,North,Lucknow,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
+2022-03-09,305090,Sri Lakshmi Traders,10014153,South,Namakkal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
+2022-05-06,306023,Stemsy Nutrition,10008978,North,Ludhiana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),625,50000
+2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2023-11-01,304986,Biotech Marketing,10017303,West,Anand,Eucamint ,Eucamint (500ml x 12),48,36000
+2023-11-11,306096,Shree Keshav Agencies,10062712,North,Ajmer,Poszyme,POSZYME 5000 (5 X 5 KG) - GRANULES,100,8500
+2023-12-03,306101,Shree Naveen Poultry Feeds,10007549,North,Ajmer,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),20,5500
+2023-07-05,304980,Shama Enterprises,10063693,North,Barwala,Kem-O-Cid pHB,KEM-O-CID PHB (5L*2),150,18000
+2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2022-10-10,306123,Jigar Poultry Farm,10014991,West,Anand,Premin,Premin L (25Kg),75,3600
+2022-04-12,305013,Vijendra Medical Hall,10012651,North,Jind,Premin -O- Plus,Premin -O- Plus ( 25 Kg),75,16500
+2023-07-01,3060071,ABP Enterprises,10008978,East,Patna,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,9375
+2022-04-08,305058,Venkateshwara Marketing,10014160,South,Karimnagar,Previte,Previte-C4Y (5 x 5 Kg),300,192000
+2023-03-06,305046,Fatema Poultry Farm,10063542,West,Wakaner,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),10,4800
+2022-09-11,304978,Ludhiana Feed Mills Pvt Ltd,10015568,North,Ludhiana,NDZ Forte,NDZ Forte (5 x 5Kg),200,50000
+2023-10-05,306127,Krishna Poultry & Cattle Feed,10064411,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),375,97500
+2022-08-06,305086,Excel Enterprises,10009125,South,Vijaywada,Poszyme,Poszyme 5000 CT (5x5 kg),250,62500
+2022-04-06,306023,Stemsy Nutrition,10014989,North,Ludhiana,Premin,Premin B (25Kg),100,7500
+2023-05-07,310020,Sona Gold Agro-Chem(P) Ltd,10066078,East,Patna,Xerotox,XEROTOX (25 KG),200,9600
+2023-04-04,305087,Phoenix Poultry,10063077,West,Jabalpur,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),100,80000
+2022-08-10,306007,ABP Enterprises,10014153,East,24 Pargana,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
+2023-05-10,305086,Excel Enterprises,10062715,South,Vijaywada,Enzimix,ENZIMIX (25 KG),450,76500
+2022-10-08,304981,Ravindra Medicose,10015568,North,Karnal,NDZ Forte,NDZ Forte (5 x 5Kg),25,6500
+2023-11-02,305046,Fatema Poultry Farm,10015568,West,Wakaner,NDZ Forte,NDZ Forte (5 x 5Kg),25,6500
+2023-04-03,306101,Shree Naveen Poultry Feeds,10016366,North,Ajmer,Stedigro Advance,Stedigro Advance (25  x 1Kg),250,35000
+2023-11-01,304965,Vinayak Enterprises,10017303,North,Karnal,Eucamint ,Eucamint (500ml x 12),12,9000
+2023-04-11,304992,Sai Agencies,10063679,West,Jabalpur,Kem Vit C ,KEM VIT C (25KG),100,52000
+2022-09-07,305091,RA Health Care,10010071,North,Lucknow,Kem Vit C ,Kem Vit C (25Kg),100,71500
+2023-04-10,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),200,36000
+2023-07-01,305046,Fatema Poultry Farm,10007712,West,Wakaner,Enzimix,Enzimix + (25 Kg),25,4250
+2023-03-07,304966,Swastik Pharma Agency,10062518,North,Karnal,Enzimix,ENZIMIX+ GT 250 (25K),100,18500
+2023-10-11,305046,Fatema Poultry Farm,10062489,West,Wakaner,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,10625
+2023-10-06,306072,Jeeya Medicose,10063542,West,Jabalpur,Previte Chick Pro,PREVITE CHICK PRO (1L X 10),30,14400
+2022-08-06,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2022-09-11,304966,Swastik Pharma Agency,10008886,North,Karnal,Previte,Previte-Ind (5x5 Kg),100,48000
+2022-12-07,306121,New Hema Enterprises,10015705,South,Hyderabad ,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),70,42000
+2023-09-11,306033,Shri Ganesh Poultries,10063077,North,Jind,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,400000
+2023-07-01,305046,Fatema Poultry Farm,10007213,West,Wakaner,Xerotox,Xerotox (25 Kg),125,6000
+2022-06-09,306072,Jeeya Medicose,10009988,West,Jabalpur,Previte ADBEC,Previte ADBEC (10 x 1 Lit),20,13200
+2023-11-09,306125,Asra Poultry Feed,10000676,West,Wakaner,Bromo Grane,BROMO GRANE (200GM X10),60,18600
+2022-08-11,304997,Lotus Poultries Pvt. Ltd.,10016091,South,Bangalore,Bromo Grane,Bromograne (12 x 1Kg),24,30101
+2023-12-03,306101,Shree Naveen Poultry Feeds,10009278,North,Ajmer,Enzimix,Enzimix+ GT 250 (25K),375,62250
+2022-11-08,305014,Shivaram Industries,10007549,South,Bangalore,Kem Raksha Plus,Kem Raksha Plus (2 X 5 L),100,27500
+2022-07-08,304978,Ludhiana Feed Mills Pvt Ltd,10011706,North,Ludhiana,Copper Sulphate P,Copper Sulphate A (5 x 5 kg),150,42000
+2023-11-01,305098,Neoline Pharma,10017286,West,Pune,Lipibond,Lipibond (5 x 5Kg),50,9250
+2023-07-02,304037,Poshak Medicines,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),80,44800
+2022-12-11,306034,Synergy Agro Industries,10009279,West,Indore,Enzimix,Enzimix GT (25kg),75,13275
+2023-12-08,306030,Venkata Manoj Enterprises,10063582,South,KRISHNA A,Kem Vit M,KEM VIT-M ( 25 KG),40,110000
+2023-07-06,305022,Real Enterprise,10063077,West,Wakaner,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),25,20000
+2023-08-02,306127,Krishna Poultry & Cattle Feed,10010115,West,Anand,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),200,26000
+2023-05-08,305013,Vijendra Medical Hall,10063387,North,Jind,Premin -O- Plus,PREMIN -O- PLUS ( 25 KG),500,117500
+2022-11-08,305000,Royal Layer Poultry Farm,10016091,West,Pune,Bromo Grane,Bromograne (12 x 1Kg),48,46080
+2023-11-11,304980,Shama Enterprises,10066287,North,Barwala,Copper Sulphate P,COPPER SULPHATE A (5 X 5 KG),1000,280000
+2023-07-01,305046,Fatema Poultry Farm,10014991,West,Wakaner,Premin,Premin L (25Kg),75,3600
+2022-12-05,306121,New Hema Enterprises,10007860,South,Hyderabad ,KEM LCC,KEM LCC ( 25 Kg),225,24750
+2022-03-07,304974,Soozwin & Co,10015568,East,Kolkata,NDZ Forte,NDZ Forte (5 x 5Kg),300,78000
+2022-04-08,306121,New Hema Enterprises,10008978,South,Hyderabad ,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,85000
+2022-09-04,304966,Swastik Pharma Agency,10014153,North,Karnal,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),300,210000
+2022-06-06,306007,ABP Enterprises,10008978,East,24 Pargana,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,75000
+2022-10-05,304967,Sree Meerambika Agencies,10010104,South,Hospet,Kembio,Kem Bio + (1kgx10),10,4000
+2022-10-08,306121,New Hema Enterprises,10014991,South,Hyderabad ,Premin,Premin L (25Kg),225,10800
+2023-05-04,309419,Master Overseas,10063663,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),40,19200
+2022-04-09,305091,RA Health Care,10009125,North,Lucknow,Poszyme,Poszyme 5000 CT (5x5 kg),250,63750
+2023-11-09,306125,Asra Poultry Feed,10064907,West,Wakaner,Xerotox,XEROTOX PREMIUM (5 X 5KG),500,55000
+2023-04-10,304973,S M Enterprises,10062519,East,Patna,Enzimix,Enzimix GT (25 kg),125,23125
+2023-08-06,304986,Biotech Marketing,10064218,West,Anand,Kembio,KemBio Advance (2 x 5Kg),50,35000
+2022-10-08,306121,New Hema Enterprises,10014991,South,Hyderabad ,Premin,Premin L (25Kg),275,13200
+2023-03-07,306036,Arindhas,10066498,South,KRISHNA A,Kembind Y,Kembind Y (500gm x 12),78,119621
+2022-08-09,305086,Excel Enterprises,10007860,South,Vijaywada,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2023-04-03,304972,Shri Sai Distributor,10010112,West,Raipur,Kembio,Kem Bio WS (1kg*10),100,62500
+2022-09-07,306080,Lotus Farm Cure,10016254,South,Coimbatore,Kembio,Kembio Advance WS (100 gm x 20),260,23400
+2023-09-11,306096,Shree Keshav Agencies,10066521,North,Ajmer,Kem Raksha 49 ,Kem Raksha 49 (1Kg x 10),20,12100
+2022-08-11,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),400,280000
+2023-09-10,309419,Master Overseas,10061262,West,Anand,Eucamint ,EUCAMINT (500ML X 12),24,15840
+2022-06-12,305098,Neoline Pharma,10011436,West,Pune,Previte Chick Pro,Previte Chick Pro (1L x 10),40,17600
+2022-08-09,306121,New Hema Enterprises,10014153,South,Hyderabad ,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
+2023-11-03,305091,RA Health Care,10010071,North,Lucknow,Kem Vit C ,Kem Vit C (25Kg),225,146250
+2022-02-06,306121,New Hema Enterprises,10016202,South,Hyderabad ,Previte,Previte Special 500L (5 x 5Kg),350,126000
+2023-09-09,304982,Jaya Agency,10062489,South,Bangalore,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),1000,80000
+2023-07-02,306007,ABP Enterprises,10014150,East,24 Pargana,Bromo Grane,Bromo Grane (200gm x10),440,127600
+2023-10-05,309405,Kumaran Vet Agencies,10061262,South,Rashipuram,Eucamint ,EUCAMINT (500ML X 12),24,17100
+2023-06-03,306080,Lotus Farm Cure,10016366,South,Coimbatore,Stedigro Advance,Stedigro Advance (25  x 1Kg),225,31500
+2023-06-03,306080,Lotus Farm Cure,10016366,South,Coimbatore,Stedigro Advance,Stedigro Advance (25  x 1Kg),275,38500
+2023-12-08,309405,Kumaran Vet Agencies,10064218,South,Rashipuram,Kembio,KemBio Advance (2 x 5Kg),100,70000
+2023-08-03,304980,Shama Enterprises,10011585,North,Barwala,Previte,Previte Special (5 x 5Kg),375,206250
+2022-07-09,306101,Shree Naveen Poultry Feeds,10011436,North,Ajmer,Previte Chick Pro,Previte Chick Pro (1L x 10),250,100000
+2023-11-03,305091,RA Health Care,10016366,North,Lucknow,Stedigro Advance,Stedigro Advance (25  x 1Kg),500,70000
+2022-08-09,304996,Shree Om Sai Venterinary Sales,10014991,West,Sangli,Premin,Premin L (25Kg),225,10800
+2022-08-09,304996,Shree Om Sai Venterinary Sales,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),500,41500
+2022-08-10,306002,Japp Poultry,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),325,26000
+2022-08-12,305058,Venkateshwara Marketing,10009988,South,Karimnagar,Previte ADBEC,Previte ADBEC (10 x 1 Lit),100,63000
+2022-03-07,304986,Biotech Marketing,10015568,West,Anand,NDZ Forte,NDZ Forte (5 x 5Kg),500,120000
+2023-10-11,305046,Fatema Poultry Farm,10064411,West,Wakaner,NDZ Forte,NDZ Forte (5 x 5Kg),25,6125
+2022-10-12,306121,New Hema Enterprises,10010115,South,Hyderabad ,Kem-O-Cid pHB,Kem-O-Cid pHB (5L*2),120,15240
+2022-08-10,306002,Japp Poultry,10011436,North,Jind,Previte Chick Pro,Previte Chick Pro (1L x 10),180,81000
+2022-10-08,305021,Earthvet Agencies,10014991,West,Indore,Premin,Premin L (25Kg),500,24000
+2022-10-08,306019,Dhk Agro Feeds & Farms Pvt Ltd,10008978,West,Sangli,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),125,11625
+2023-08-06,310020,Sona Gold Agro-Chem(P) Ltd,10066602,East,Patna,Lipibond,LIPIBOND (5 X 5KG),400,72000
+2023-09-03,309405,Kumaran Vet Agencies,10016366,South,Rashipuram,Stedigro Advance,Stedigro Advance (25  x 1Kg),125,17500
+2022-12-12,304974,Soozwin & Co,10014153,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),350,245000
+2023-08-03,304973,S M Enterprises,10016366,East,Patna,Stedigro Advance,Stedigro Advance (25  x 1Kg),50,7000
+2022-10-10,306101,Shree Naveen Poultry Feeds,10009988,North,Ajmer,Previte ADBEC,Previte ADBEC (10 x 1 Lit),100,66000
+2023-07-01,305098,Neoline Pharma,10015568,West,Pune,NDZ Forte,NDZ Forte (5 x 5Kg),25,6125
+2023-03-08,305086,Excel Enterprises,10064218,South,Vijaywada,Kembio,KemBio Advance (2 x 5Kg),-60,-42000
+2022-05-07,306044,C S R M Enterprises,10007860,South,Tanuku,KEM LCC,KEM LCC ( 25 Kg),500,55000
+2022-08-10,306122,Aggarwal Vetcure Solutions Pvt Ltd,10014991,North,Barwala,Premin,Premin L (25Kg),500,23000
+2022-08-10,306002,Japp Poultry,10008978,North,Jind,Kem-O-Cid Gold,KEM-O-CID Gold (25 Kg),25,2000
+2023-09-10,304974,Soozwin & Co,10063077,East,Kolkata,Previte Alpha D3 Premix,Previte Alpha-D3 Premix (5x5 Kg),500,350000
+2023-04-05,305006,National Marketing,10066602,West,Wakaner,Lipibond,LIPIBOND (5 X 5KG),300,51000
+2023-11-10,310793,Synergy Nutri Corp,10064191,West,Indore,Previte,PREVITE CUST F-2 (5 X 5KG),300,184500
+2023-06-07,305024,Nmn Ventures,10064411,West,Raipur,NDZ Forte,NDZ Forte (5 x 5Kg),250,65000
+2023-06-03,309409,Simran Feeds Pvt Ltd,10009988,West,Anand,Previte ADBEC,Previte ADBEC (10 x 1 Lit),40,19200
+2022-04-08,304982,Jaya Agency,10014976,South,Bangalore,Xerotox,Xerotox Premium (5 x 5Kg),100,9000
+2022-04-08,306121,New Hema Enterprises,10015058,South,Hyderabad ,Premin,Premin V (25Kg),375,28125
+2022-01-11,306036,Arindhas,10017283,South,KRISHNA A,Kembio,KemBio advance WS (500gx10),240,102000
+2022-10-09,304965,Vinayak Enterprises,10011522,North,Karnal,Previte Chick Pro,Previte Chick Pro (5L x 2),20,8200
+2022-04-08,306122,Aggarwal Vetcure Solutions Pvt Ltd,10007213,North,Barwala,Xerotox,Xerotox (25 Kg),500,20000
+2023-09-02,305019,Poulvet Enterprises,10009278,East,Bhubeneswar,Enzimix,Enzimix+ GT 250 (25K),425,68000
+2022-07-06,304973,S M Enterprises,10007213,East,Patna,Xerotox,Xerotox (25 Kg),300,14400
