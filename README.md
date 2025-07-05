@@ -36,7 +36,7 @@ We give input and this give output
 ## 🧊 Data Ingestion Process 
 
 When we run the app, this is what happens in the **DataIngestion** step:
-
+```text
 app.py  
 │  
 └──> Starts `DataIngestion().initiate_data_ingestion()`
