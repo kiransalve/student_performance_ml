@@ -94,6 +94,8 @@ app.py
 
 #
 
+## Function Explaination 
+
 Data Transformation Flow - 
 
 ### 🔄 Data Transformation Flow (from `app.py`)
@@ -124,3 +126,39 @@ app.py
        │
        └── Returns train_arr, test_arr, path_to_preprocessor.pkl
 
+```
+
+## Flow Exaplianation
+### 📊 Data Transformation Flow
+
+```text
+app.py
+ │
+ └──> DataTransformation().initiate_data_transformation(train_path, test_path)
+       │
+       ├── Loads the training and test data files (like Excel or CSV)
+       │
+       ├── Prepares a tool that:
+       │     └── Cleans the data (fills blanks, fixes formats)
+       │     └── Converts text into numbers so the computer can understand
+       │     └── Scales numbers so they’re easier to work with
+       │
+       ├── Separates both files into:
+       │     - Input data (what we use to make predictions)
+       │     - Output data (what we want to predict)
+       │
+       ├── Learns from the training input data (fits the tool)
+       │
+       ├── Uses the same tool to prepare the test input data
+       │
+       ├── Combines the inputs and outputs into:
+       │     - Final training set
+       │     - Final test set
+       │
+       ├── Saves the tool (called "preprocessor") in a file so it can be reused
+       │
+       └── Gives back:
+             - The final training data
+             - The final test data
+             - The path where the tool was saved (preprocessor.pkl)
+```
