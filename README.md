@@ -9,8 +9,6 @@ cat_cols = ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 
 
 num_cols = ['reading_score', 'writing_score', "math_score"]
 
-
-
 ## Traning Pipeline
 
 -> Getting data
@@ -42,7 +40,6 @@ Components -
 
 We give input and this give output
 
-#
 
 ## 🧊 Data Ingestion Process 
 
@@ -82,7 +79,7 @@ app.py
 └──> Starts `DataIngestion().initiate_data_ingestion()`
      │
      ├── ✅ Reads data from a MySQL database  
-     │      (This is like getting the latest sales or product records from storage)
+     │      (This is like getting the records from MySQL Workbench)
      │
      ├── 🗂️ Creates a folder to store files (if it doesn’t already exist)
      │
@@ -90,8 +87,8 @@ app.py
      │      (So we have a backup of the complete data)
      │
      ├── ✂️ Splits the data into two parts:
-     │      - **Train data (80%)** – used to train the model  
-     │      - **Test data (20%)** – used to check how well the model performs  
+     │      - Train data (80%) – used to train the model  
+     │      - Test data (20%) – used to check how well the model performs  
      │
      ├── 💾 Saves the train data in `train.csv`  
      ├── 💾 Saves the test data in `test.csv`  
@@ -100,12 +97,7 @@ app.py
 
 ```
 
-
-#
-
 ## Function Explaination 
-
-Data Transformation Flow - 
 
 ### 🔄 Data Transformation Flow (from `app.py`)
 
@@ -138,6 +130,7 @@ app.py
 ```
 
 ## Flow Exaplianation
+
 ### 📊 Data Transformation Flow
 
 ```text
@@ -147,29 +140,29 @@ app.py
        │
        ├── Loads the training and test data files (like Excel or CSV)
        │
-       ├── Prepares a tool that:
+       ├── Prepares a pipeline that:
        │     └── Cleans the data (fills blanks, fixes formats)
-       │     └── Converts text into numbers so the computer can understand
-       │     └── Scales numbers so they’re easier to work with
+       │     └── Converts categorical features into numbers as ML only understand numbers
+       │     └── Scales numbers at common 
        │
        ├── Separates both files into:
        │     - Input data (what we use to make predictions)
        │     - Output data (what we want to predict)
        │
-       ├── Learns from the training input data (fits the tool)
+       ├── Learns from the training input data
        │
-       ├── Uses the same tool to prepare the test input data
+       ├── Uses the pipeline to prepare the test input data
        │
        ├── Combines the inputs and outputs into:
        │     - Final training set
        │     - Final test set
        │
-       ├── Saves the tool (called "preprocessor") in a file so it can be reused
+       ├── Saves it as "preprocessor" in a file so it can be reused
        │
        └── Gives back:
              - The final training data
              - The final test data
-             - The path where the tool was saved (preprocessor.pkl)
+             - The path where the pkl file was saved (preprocessor.pkl)
 ```
 
 ### 🤖 Model Training Flow 
