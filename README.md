@@ -162,3 +162,38 @@ app.py
              - The final test data
              - The path where the tool was saved (preprocessor.pkl)
 ```
+
+### 🤖 Model Training Flow 
+
+```text
+app.py
+ │
+ └──> ModelTrainer().initiate_model_trainer(train_array, test_array)
+       │
+       ├── Splits both arrays into:
+       │     - X_train (features to learn from)
+       │     - y_train (target values for training)
+       │     - X_test  (features to test with)
+       │     - y_test  (real target values for test)
+       │
+       ├── Defines a set of machine learning models:
+       │     - Random Forest, Decision Tree, Gradient Boosting, etc.
+       │
+       ├── Provides tuning options (hyperparameters) for each model
+       │
+       ├── Calls evaluate_models() to:
+       │     └── Train each model with tuning options
+       │     └── Test each model
+       │     └── Return performance scores
+       │
+       ├── Selects the best-performing model
+       │
+       ├── Checks if best model's score is good enough
+       │     └── If not, raises an error
+       │
+       ├── Saves the best model as a file (for future use)
+       │
+       ├── Uses best model to predict on test data
+       │
+       └── Returns the model’s accuracy score (R² score)
+```
