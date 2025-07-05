@@ -63,3 +63,17 @@ app.py
        ├── Saves the preprocessor pipeline object as `preprocessor.pkl`
        │
        └── Returns train_arr, test_arr, path_to_preprocessor.pkl
+
+
+### 🏗️ Data Ingestion Flow (`initiate_data_ingestion()`)
+
+```mermaid
+graph TD
+    A[initiate_data_ingestion()] --> B[read_sql_data() <br> (Reads from MySQL)]
+    B --> C[Raw DataFrame (df)]
+    C --> D[Save as raw.csv in /artifacts]
+    D --> E[train_test_split(df, 0.2)]
+    E --> F[Save train.csv]
+    E --> G[Save test.csv]
+    F --> H[Return paths to train.csv, test.csv]
+    G --> H
