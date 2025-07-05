@@ -35,7 +35,38 @@ We give input and this give output
 
 ## 🧊 Data Ingestion Process 
 
+## Function Explaination
+
+## 📥 data_ingestion.py Flow (DataIngestion Class)
+
+```text
+app.py
+│
+└──> DataIngestion().initiate_data_ingestion()
+     │
+     ├── Calls `read_sql_data()`
+     │     └── Fetches raw data from MySQL database into DataFrame
+     │
+     ├── Creates directories if not exist
+     │
+     ├── Saves raw data as CSV
+     │     └── `artifacts/raw.csv`
+     │
+     ├── Splits data into train and test (80/20)
+     │
+     ├── Saves train data
+     │     └── `artifacts/train.csv`
+     │
+     ├── Saves test data
+     │     └── `artifacts/test.csv`
+     │
+     └── Returns train and test file paths
+```
+
+## Flow Explaination
+
 When we run the app, this is what happens in the **DataIngestion** step:
+
 ```text
 app.py  
 │  
