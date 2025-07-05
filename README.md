@@ -199,3 +199,40 @@ app.py
        │
        └── Returns the model’s accuracy score (R² score)
 ```
+
+## 🤖 Model Trainer Process (Easy Explanation)
+
+This step chooses the best machine learning model from many options by trying them all and picking the one that performs best.
+
+```text
+app.py  
+│  
+└──> Starts `ModelTrainer().initiate_model_trainer(train_array, test_array)`
+     │
+     ├── 🔀 Splits the data:
+     │      - X = inputs (like features: sales, zone, product)
+     │      - y = output (what we want to predict)
+     │
+     ├── 📦 Prepares a list of models to try:
+     │      - Random Forest
+     │      - Decision Tree
+     │      - Gradient Boosting
+     │      - Linear Regression
+     │      - XGBoost
+     │      - CatBoost
+     │      - AdaBoost
+     │
+     ├── 🛠️ Defines parameters to test for each model
+     │      (like how deep a tree should be, how fast to learn, etc.)
+     │
+     ├── 📊 Tries every model and tracks performance using R² score
+     │      - R² tells how well predictions match actual results (closer to 1 is better)
+     │
+     ├── 🏆 Finds the best model
+     │      - If no model is good enough (R² < 0.6), it raises an error
+     │
+     ├── 💾 Saves the best model in a file: `artifact/model.pkl`
+     │      (This file is used later for predictions)
+     │
+     └── 🔁 Returns the R² score of the best model
+```
