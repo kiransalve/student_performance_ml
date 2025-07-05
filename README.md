@@ -1,4 +1,14 @@
-# Pipeline 
+
+# Student Permormance ML Project - Prediction of Maths score
+
+This project taken from Krish Sir's youtube video - https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR&index=1
+
+We have students data with 
+
+cat_cols = ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+num_cols = ['reading_score', 'writing_score', "math_score"]
+
+
 
 ## Traning Pipeline
 
@@ -35,9 +45,7 @@ We give input and this give output
 
 ## 🧊 Data Ingestion Process 
 
-## Function Explaination
-
-## 📥 data_ingestion.py Flow (DataIngestion Class)
+### Function Explaination
 
 ```text
 app.py
