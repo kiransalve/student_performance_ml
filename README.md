@@ -30,3 +30,32 @@ Components -
 ## Prediction Pipeline 
 
 We give input and this give output
+
+
+
+Data Transformation Flow - 
+
+app.py
+    │
+    └──> DataTransformation().initiate_data_transformation(train_path, test_path)
+              │
+              ├── Reads train & test CSVs as DataFrames
+              │
+              ├── Calls get_data_transformation_object()
+              │        └── Builds and returns the ColumnTransformer pipeline
+              │
+              ├── Splits train_df & test_df into:
+              │       - input_features (X)
+              │       - target (y)
+              │
+              ├── Applies .fit_transform() on train X
+              │
+              ├── Applies .transform() on test X
+              │
+              ├── Combines X and y into numpy arrays:
+              │       - train_arr
+              │       - test_arr
+              │
+              ├── Saves the preprocessor pipeline object as preprocessor.pkl
+              │
+              └── Returns train_arr, test_arr, path_to_preprocessor.pkl
