@@ -6,6 +6,7 @@ This project taken from Krish Sir's youtube video - https://www.youtube.com/watc
 We have students data with 
 
 cat_cols = ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+
 num_cols = ['reading_score', 'writing_score', "math_score"]
 
 
